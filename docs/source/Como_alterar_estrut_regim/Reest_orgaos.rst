@@ -173,18 +173,19 @@ O detalhamento das competências, no Decreto, não pode extrapolar o escopo de a
  
    Todas as unidades setoriais têm suas atribuições gerais estabelecidas por normas específicas e, em alguns casos, a redação de suas competências foi padronizada pelo órgão central do sistema.
 
-No registro das competências, também é necessário observar as orientações a seguir:
-#. dê preferência a construções simples e diretas, compostas pelo verbo que exprime a função pública que a unidade exerce;
-#. evite o uso de expressões ou locuções verbais, tais como:
-* “tratar de assuntos relativos a ...”;
-* “realizar a coordenação de políticas...” ou “realizar gestões junto a ...”;
-* “atuar para promover a articulação e a orientação” ou ainda “promover a articulação”;
-* “empreender a articulação das ações governamentais”; e
-* “manter registro” – substituir por registrar e armazenar;
-#. evite o uso de verbos como “promover”, “assegurar” e “garantir”, que usualmente são utilizados para definir objetivos institucionais ou de políticas públicas, mas que não costumam ser adequados para competências de unidades;
-#. evite o uso de gerúndio no registro de competências, como “disseminando”, “articulando”, “realizando”, “ampliando o acesso”;
-#. evite o uso de adjetivos na descrição das competências, como “estreita articulação”, “articulação abrangente”, “gestão eficiente dos recursos”;
-#. evite o registro de competências redundantes, para a mesma unidade, como “coordenar a formulação de políticas setoriais” e “subsidiar a formulação de políticas públicas setoriais”.
+Também é importante observar as orientações a seguir:
+
+ #. dê preferência a construções simples e diretas, compostas pelo verbo que exprime a função pública que a unidade exerce;
+ #. evite o uso de expressões ou locuções verbais, tais como:
+ * “tratar de assuntos relativos a ...”;
+ * “realizar a coordenação de políticas...” ou “realizar gestões junto a ...”;
+ * “atuar para promover a articulação e a orientação” ou ainda “promover a articulação”;
+ * “empreender a articulação das ações governamentais”; e
+ * “manter registro” – substituir por registrar e armazenar;
+ #. evite o uso de verbos como “promover”, “assegurar” e “garantir”, que usualmente são utilizados para definir objetivos institucionais ou de políticas públicas, mas que não costumam ser adequados para competências de unidades;
+ #. evite o uso de gerúndio no registro de competências, como “disseminando”, “articulando”, “realizando”, “ampliando o acesso”;
+ #. evite o uso de adjetivos na descrição das competências, como “estreita articulação”, “articulação abrangente”, “gestão eficiente dos recursos”;
+ #. evite o registro de competências redundantes, para a mesma unidade, como “coordenar a formulação de políticas setoriais” e “subsidiar a formulação de políticas públicas setoriais”.
 
 .. warning::
  
