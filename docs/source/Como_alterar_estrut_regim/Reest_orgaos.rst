@@ -129,7 +129,7 @@ responsabilidade do órgão.
 V - entidades vinculadas (se houver): engloba autarquias, fundações públicas
 e empresas públicas vinculadas ao órgão. 
 
-Observe que a ordem das unidades estabelecida no art. 2º definirá a ordem das unidades dispostas no Capítulo III e no Quadro demonostrativo dos cargos e funções :ref:`AnexoIIa`.  
+Observe que a ordem das unidades estabelecida no art. 2º definirá a ordem das unidades dispostas no Capítulo III e no :ref:`AnexoIIa`.  
 
 
 **Exemplo simplificado**
@@ -174,9 +174,9 @@ O detalhamento das competências, no Decreto, não pode extrapolar o escopo de a
    Todas as unidades setoriais têm suas atribuições gerais estabelecidas por normas específicas e, em alguns casos, a redação de suas competências foi padronizada pelo órgão central do sistema.
 
 No registro das competências, também é necessário observar as orientações a seguir:
-I. dê preferência a construções simples e diretas, compostas pelo verbo que exprime a função pública que a unidade exerce;
-II. evite o uso de expressões ou locuções verbais, tais como:
-a) “tratar de assuntos relativos a ...”;
+#. dê preferência a construções simples e diretas, compostas pelo verbo que exprime a função pública que a unidade exerce;
+#. evite o uso de expressões ou locuções verbais, tais como:
+##) “tratar de assuntos relativos a ...”;
 b) “realizar a coordenação de políticas...” ou “realizar gestões junto a ...”;
 c) “atuar para promover a articulação e a orientação” ou ainda “promover a 
 articulação”;
@@ -190,19 +190,21 @@ VI. evite o registro de competências redundantes, para a mesma unidade, como �
 .. warning::
  
    Não devem ser inseridas no Decreto as atividades de rotina administrativa interna, as atividades que são comuns ou que podem ser realizadas por todas as unidades, nem atribuições indefinidas, tais como:
-   a) preparar ou participar de reuniões;
-   b) coletar, sistematizar, consolidar, analisar dados e/ou informações;
-   c) elaborar regimento interno;
-   d) articular-se ou realizar articulação com outras unidades do Ministério ou da entidade;
-   e) acompanhar assuntos de sua competência;
-   f) fornecer subsídios;
-   g) propor, realizar ou promover estudos, projetos e/ou análises;
-   h) subsidiar a elaboração da proposição orçamentária da unidade;
-   i) assistir o Ministro nos assuntos de competência da Secretaria;
-   j) assistir o Secretário nos assuntos de competência do Departamento;
-   k) representar a Secretaria;
-   l) realizar outras atividades correlatas estabelecidas pelo Ministro ou Secretário; e
-   m) exercer outras atribuições determinadas pelo Ministro ou Secretário.
+   
+   #. preparar ou participar de reuniões;
+   #. coletar, sistematizar, consolidar, analisar dados e/ou informações;
+   #. elaborar regimento interno;
+   #. articular-se ou realizar articulação com outras unidades do Ministério ou da entidade;
+   #. acompanhar assuntos de sua competência;
+   #. fornecer subsídios;
+   #. propor, realizar ou promover estudos, projetos e/ou análises;
+   #. subsidiar a elaboração da proposição orçamentária da unidade;
+   #. assistir o Ministro nos assuntos de competência da Secretaria;
+   #. assistir o Secretário nos assuntos de competência do Departamento;
+   #. representar a Secretaria;
+   #. realizar outras atividades correlatas estabelecidas pelo Ministro ou Secretário; e
+   #. exercer outras atribuições determinadas pelo Ministro ou Secretário.
+   
    Por ser bastante comum, o último exemplo acima merece um comentário adicional. As 
    competências são estabelecidas pelo decreto que aprova a estrutura regimental ou o estatuto do órgão ou da entidade, motivo pelo qual não cabe o uso da expressão “exercer outras competências que lhe forem cometidas”.
    Caso o órgão ou entidade julgue necessário atribuir tais atividades a unidades ou subunidades administrativas, isso poderá ser feito no regimento interno. 

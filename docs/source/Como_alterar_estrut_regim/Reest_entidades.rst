@@ -201,9 +201,7 @@ Por padrão, abrange somente um artigo, que traz a organização interna da enti
   situadas em município distinto ao da sede do órgão.
  
 * **V —** órgãos colegiados (se houver): engloba colegiados criados por lei, sob
-  responsabilidade do órgão.
- 
-Observe que a ordem das unidades estabelecida no art. 2º definirá a ordem das unidades dispostas no Capítulo III e no Quadro demonostrativo dos cargos e funções :ref:`AnexoIIaent`.  
+  responsabilidade do órgão. 
 
 Exemplo simplificado:
  
@@ -217,10 +215,7 @@ Exemplo simplificado:
 .. warning::
  
    A ordem definida nesse artigo determinará a ordem das competências descritas no
-   Capítulo IV e do Quadro demonstrativo de cargos e funções (Anexo II). A regra
-   é: se a unidade está elencada no art. 2º, ela deve ter suas competências
-   descritas e sua estrutura de cargos e funções definida. A exceção é válida para
-   órgãos colegiados quanto ao quadro demonstrativo (já que não são unidades
+   Capítulo IV e do :ref:`AnexoIIa. A regra é: se a unidade está elencada no art. 2º, ela deve ter suas competências descritas e sua estrutura de cargos e funções definida. A exceção é válida para órgãos colegiados quanto ao quadro demonstrativo (já que não são usualmente unidades
    administrativas).
  
 Capítulo III — DA DIREÇÃO E DA NOMEAÇÃO
