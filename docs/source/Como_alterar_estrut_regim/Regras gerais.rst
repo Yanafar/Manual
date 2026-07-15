@@ -102,7 +102,7 @@ Faça o download do `modelo aqui <modelo-tipo1_>`_.
  
 .. admonition:: Ferramenta útil
  
-   A Diretoria de Modelos Organizacionais, da Seges, desenvolveu uma :ref:`AnexoII`, que constrói automaticamente os Anexos II e III a partir do quadro demonstrativo dos cargos e funções. A planilha também informa se a alteração implicará impacto orçamentário.
+   A Diretoria de Modelos Organizacionais, da Seges, desenvolveu uma :ref:`planilha`, que constrói automaticamente os Anexos II e III a partir do quadro demonstrativo dos cargos e funções. A planilha também informa se a alteração implicará impacto orçamentário.
 
 
 Tipo 2 — Alterações pontuais e simples
