@@ -242,17 +242,7 @@ elencadas no art. 2º, na exata ordem em que lá aparecem. Para cada grupo de
 unidades, haverá uma Seção específica. Para cada unidade organizacional, haverá
 um artigo.
  
-.. note::
- 
-   A redação de competências segue regras e boas práticas gerais definidas no
-   `Decreto nº 12.002, de 22 de abril de 2024 <decreto-12002_>`_.
- 
-   Todas as unidades setoriais têm suas atribuições gerais estabelecidas por normas
-   específicas e, em alguns casos, a redação de suas competências foi padronizada
-   pelo órgão central do sistema.
- 
-O Gabinete da autoridade máxima constitui-se como unidade obrigatória das
-entidades, de forma que o Capítulo IV começa por ele:
+O Gabinete da autoridade máxima constitui-se como unidade obrigatória das entidades, de forma que o Capítulo IV começa por ele:
  
 .. admonition:: Exemplo — abertura do Capítulo IV
  
@@ -265,6 +255,51 @@ entidades, de forma que o Capítulo IV começa por ele:
  
    I - xxx"
  
+Regras sobre a redação de competências
+++++++++++++++++++++++++++++++++++++++
+
+O detalhamento das competências, no Decreto, não pode extrapolar o escopo de atuação fixado na Lei para o órgão ou entidade . O objetivo é apenas detalhá-las e organizar a sua distribuição entre as Secretarias ou Departamentos, de forma harmoniosa e clara, visando a implementação da estratégia organizacional. É relevante, ainda, garantir que não haja conflitos de competência internos, entre as diversas unidades administrativas, ou externos, em relação a outros órgãos ou entidades.
+
+.. note::
+ 
+   A redação de competências também obedece as regras gerais e boas práticas definidas no `Decreto nº 12.002, de 22 de abril de 2024 <decreto-12002_>`_.
+ 
+   Todas as unidades setoriais têm suas atribuições gerais estabelecidas por normas específicas e, em alguns casos, a redação de suas competências foi padronizada pelo órgão central do sistema.
+
+No registro das competências, também é necessário observar as orientações a seguir:
+I. dê preferência a construções simples e diretas, compostas pelo verbo que exprime a função pública que a unidade exerce;
+II. evite o uso de expressões ou locuções verbais, tais como:
+a) “tratar de assuntos relativos a ...”;
+b) “realizar a coordenação de políticas...” ou “realizar gestões junto a ...”;
+c) “atuar para promover a articulação e a orientação” ou ainda “promover a 
+articulação”;
+d) “empreender a articulação das ações governamentais”; e
+e) “manter registro” – substituir por registrar e armazenar;
+III. evite o uso de verbos como “promover”, “assegurar” e “garantir”, que usualmente são utilizados para definir objetivos institucionais ou de políticas públicas, mas que não costumam ser adequados para competências de unidades;
+IV. evite o uso de gerúndio no registro de competências, como “disseminando”, “articulando”, “realizando”, “ampliando o acesso”;
+V. evite o uso de adjetivos na descrição das competências, como “estreita articulação”, “articulação abrangente”, “gestão eficiente dos recursos”;
+VI. evite o registro de competências redundantes, para a mesma unidade, como “coordenar a formulação de políticas setoriais” e “subsidiar a formulação de políticas públicas setoriais”.
+
+.. warning::
+ 
+   Não devem ser inseridas no Decreto as atividades de rotina administrativa interna, as atividades que são comuns ou que podem ser realizadas por todas as unidades, nem atribuições indefinidas, tais como:
+   a) preparar ou participar de reuniões;
+   b) coletar, sistematizar, consolidar, analisar dados e/ou informações;
+   c) elaborar regimento interno;
+   d) articular-se ou realizar articulação com outras unidades do Ministério ou da entidade;
+   e) acompanhar assuntos de sua competência;
+   f) fornecer subsídios;
+   g) propor, realizar ou promover estudos, projetos e/ou análises;
+   h) subsidiar a elaboração da proposição orçamentária da unidade;
+   i) assistir o Ministro nos assuntos de competência da Secretaria;
+   j) assistir o Secretário nos assuntos de competência do Departamento;
+   k) representar a Secretaria;
+   l) realizar outras atividades correlatas estabelecidas pelo Ministro ou Secretário; e
+   m) exercer outras atribuições determinadas pelo Ministro ou Secretário.
+   Por ser bastante comum, o último exemplo acima merece um comentário adicional. As 
+   competências são estabelecidas pelo decreto que aprova a estrutura regimental ou o estatuto do órgão ou da entidade, motivo pelo qual não cabe o uso da expressão “exercer outras competências que lhe forem cometidas”.
+   Caso o órgão ou entidade julgue necessário atribuir tais atividades a unidades ou subunidades administrativas, isso poderá ser feito no regimento interno. 
+
 .. hint::
  
    Alterações pontuais de competências de unidades existentes serão feitas na forma

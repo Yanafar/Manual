@@ -106,8 +106,8 @@ A tabela abaixo resume as características dos diferentes tipos de cargos públi
      * A qualquer momento, a critério da autoridade superior
      * A qualquer momento, a critério da autoridade superior
 
-   - * Demissão/Exoneração
-     * Somente após processo administrativo
+   - * Exoneração/Dispensa
+     * A pedido (exoneração) ou somente após processo administrativo (demissão)
      * A qualquer momento, a pedido ou a critério da autoridade superior. Exceção: cargos com mandato
      * A qualquer momento, a pedido ou a critério da autoridade superior
 
@@ -423,9 +423,9 @@ Cargos em comissão e funções de confiança temporários
 
    Art. 1º Ficam remanejados em caráter temporário, os seguintes Cargos Comissionados Executivos - CCE e Funções Comissionadas Executivas - FCE da Secretaria de Gestão e Inovação do Ministério da Gestão e da Inovação em Serviços Públicos para o (órgão ou entidade):
 
-   - ..........
+   I - ..........
 
-   - .........
+   II - .........
 
    § 1º Os cargos de que trata o caput:
 

@@ -50,11 +50,11 @@ Acesse o conteúdo pelo menu lateral ou faça o download da versão em PDF.
    :titlesonly:
 
    Introducao/index
-   02_Organizacao/index
-   04_Conceitos/index
-   05_Cargos/index
-   07_alterar_estrut_regim/index
-   11_AnexoII/index
+   Organizacao/index
+   Conceitos/index
+   Cargos/index
+   Como_alterar_estrut_regim/index
+   AnexoII/index
 
 
 .. only:: latex
