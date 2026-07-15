@@ -175,17 +175,18 @@ O detalhamento das competências, no Decreto, não pode extrapolar o escopo de a
 
 Também é importante dar preferência a construções simples e diretas, compostas pelo verbo que exprime a função pública que a unidade exerce **e evitar o uso** de:
 
-* expressões ou locuções verbais, como:
+* expressões ou locuções verbais;
 
+ **Exemplo**
  a) “tratar de assuntos relativos a ...”;
  b) “realizar a coordenação de políticas...” ou “realizar gestões junto a ...”;
  c) “atuar para promover a articulação e a orientação” ou ainda “promover a articulação”;
  d) “empreender a articulação das ações governamentais”; e
  e) “manter registro” – substituir por registrar e armazenar;
 
-* verbos como “promover”, “assegurar” e “garantir”, que usualmente são utilizados para definir objetivos institucionais ou de políticas públicas, mas que não costumam ser adequados para competências de unidades;
+* verbos usualmente utilizados para definir objetivos institucionais ou políticas públicas, mas que não costumam ser adequados para competências de unidades, como “promover”, “assegurar” e “garantir”; 
 
-* gerúndio no registro de competências, como “disseminando”, “articulando”, “realizando”, “ampliando o acesso”;
+* verbos no gerúndio, que indicam a forma como a competência é realizada, como “disseminando”, “articulando”, “realizando”, “ampliando o acesso”;
 
 * adjetivos na descrição das competências, como “estreita articulação”, “articulação abrangente”, “gestão eficiente dos recursos”;
 
@@ -403,7 +404,7 @@ com a próxima unidade descrita no art. 2º do Anexo I.
 
     #. Sugere-se que a data de vigência (*vacatio legis*) do decreto que aprovar ou alterar a estrutura regimental seja de, no mínimo, 21 dias após sua publicação, a fim de que haja tempo hábil para o detalhamento, no sistema informatizado do Siorg, de todas as unidades administrativas constantes do quadro demonstrativo de cargos e funções. 
     
-     Os prazos estabelecidos pelo `Decreto nº 9.739, de 28 de março de 2019 <decreto-9739_>`_ são:
+     Esses são os prazos estabelecidos pelo `Decreto nº 9.739, de 28 de março de 2019 <decreto-9739_>`:
 
      * o dia útil anterior à data de entrada em vigor do decreto; ou
      * vinte dias após a data de publicação do decreto, na hipótese de a vacatio legis do decreto ser superior a esse prazo.
