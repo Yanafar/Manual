@@ -267,12 +267,12 @@ Também é importante dar preferência a construções simples e diretas, compos
 
 * expressões ou locuções verbais;
 
- **Exemplo**
- * “tratar de assuntos relativos a ...”;
- * “realizar a coordenação de políticas...” ou “realizar gestões junto a ...”;
- * “atuar para promover a articulação e a orientação” ou ainda “promover a articulação”;
- * “empreender a articulação das ações governamentais”; e
- * “manter registro” – substituir por registrar e armazenar;
+ **Exemplos:**
+  * “tratar de assuntos relativos a ...”;
+  * “realizar a coordenação de políticas...” ou “realizar gestões junto a ...”;
+  * “atuar para promover a articulação e a orientação” ou ainda “promover a articulação”;
+  * “empreender a articulação das ações governamentais”; e
+  * “manter registro” – substituir por registrar e armazenar;
 
 * verbos usualmente utilizados para definir objetivos institucionais ou políticas públicas, mas que não costumam ser adequados para competências de unidades, como “promover”, “assegurar” e “garantir”; 
 
