@@ -259,40 +259,46 @@ O detalhamento das competências, no Decreto, não pode extrapolar o escopo de a
 
 .. note::
  
-   A redação de competências também obedece as regras gerais e boas práticas definidas no `Decreto nº 12.002, de 22 de abril de 2024 <decreto-12002_>`_.
+   A redação de competências obedece as regras gerais e boas práticas definidas no `Decreto nº 12.002, de 22 de abril de 2024 <decreto-12002_>`_.
  
    Todas as unidades setoriais têm suas atribuições gerais estabelecidas por normas específicas e, em alguns casos, a redação de suas competências foi padronizada pelo órgão central do sistema.
 
-No registro das competências, também é necessário observar as orientações a seguir:
-I. dê preferência a construções simples e diretas, compostas pelo verbo que exprime a função pública que a unidade exerce;
-II. evite o uso de expressões ou locuções verbais, tais como:
-a) “tratar de assuntos relativos a ...”;
-b) “realizar a coordenação de políticas...” ou “realizar gestões junto a ...”;
-c) “atuar para promover a articulação e a orientação” ou ainda “promover a 
-articulação”;
-d) “empreender a articulação das ações governamentais”; e
-e) “manter registro” – substituir por registrar e armazenar;
-III. evite o uso de verbos como “promover”, “assegurar” e “garantir”, que usualmente são utilizados para definir objetivos institucionais ou de políticas públicas, mas que não costumam ser adequados para competências de unidades;
-IV. evite o uso de gerúndio no registro de competências, como “disseminando”, “articulando”, “realizando”, “ampliando o acesso”;
-V. evite o uso de adjetivos na descrição das competências, como “estreita articulação”, “articulação abrangente”, “gestão eficiente dos recursos”;
-VI. evite o registro de competências redundantes, para a mesma unidade, como “coordenar a formulação de políticas setoriais” e “subsidiar a formulação de políticas públicas setoriais”.
+Também é importante dar preferência a construções simples e diretas, compostas pelo verbo que exprime a função pública que a unidade exerce **e evitar o uso** de:
+
+* expressões ou locuções verbais, como:
+
+ - “tratar de assuntos relativos a ...”;
+ - “realizar a coordenação de políticas...” ou “realizar gestões junto a ...”;
+ - “atuar para promover a articulação e a orientação” ou ainda “promover a articulação”;
+ - “empreender a articulação das ações governamentais”; e
+ - “manter registro” – substituir por registrar e armazenar;
+
+* verbos como “promover”, “assegurar” e “garantir”, que usualmente são utilizados para definir objetivos institucionais ou de políticas públicas, mas que não costumam ser adequados para competências de unidades;
+
+* gerúndio no registro de competências, como “disseminando”, “articulando”, “realizando”, “ampliando o acesso”;
+
+* adjetivos na descrição das competências, como “estreita articulação”, “articulação abrangente”, “gestão eficiente dos recursos”;
+
+* competências redundantes, para a mesma unidade, como “coordenar a formulação de políticas setoriais” e “subsidiar a formulação de políticas públicas setoriais”.
 
 .. warning::
  
-   Não devem ser inseridas no Decreto as atividades de rotina administrativa interna, as atividades que são comuns ou que podem ser realizadas por todas as unidades, nem atribuições indefinidas, tais como:
-   a) preparar ou participar de reuniões;
-   b) coletar, sistematizar, consolidar, analisar dados e/ou informações;
-   c) elaborar regimento interno;
-   d) articular-se ou realizar articulação com outras unidades do Ministério ou da entidade;
-   e) acompanhar assuntos de sua competência;
-   f) fornecer subsídios;
-   g) propor, realizar ou promover estudos, projetos e/ou análises;
-   h) subsidiar a elaboração da proposição orçamentária da unidade;
-   i) assistir o Ministro nos assuntos de competência da Secretaria;
-   j) assistir o Secretário nos assuntos de competência do Departamento;
-   k) representar a Secretaria;
-   l) realizar outras atividades correlatas estabelecidas pelo Ministro ou Secretário; e
-   m) exercer outras atribuições determinadas pelo Ministro ou Secretário.
+    Não devem ser inseridas no Decreto as atividades de rotina administrativa interna, as atividades que são comuns ou que podem ser realizadas por todas as unidades, nem atribuições indefinidas, tais como:
+   
+   * preparar ou participar de reuniões;
+   * coletar, sistematizar, consolidar, analisar dados e/ou informações;
+   * elaborar regimento interno;
+   * articular-se ou realizar articulação com outras unidades do Ministério ou da entidade;
+   * acompanhar assuntos de sua competência;
+   * fornecer subsídios;
+   * propor, realizar ou promover estudos, projetos e/ou análises;
+   * subsidiar a elaboração da proposição orçamentária da unidade;
+   * assistir o Ministro nos assuntos de competência da Secretaria;
+   * assistir o Secretário nos assuntos de competência do Departamento;
+   * representar a Secretaria;
+   * realizar outras atividades correlatas estabelecidas pelo Ministro ou Secretário; e
+   * exercer outras atribuições determinadas pelo Ministro ou Secretário.
+   
    Por ser bastante comum, o último exemplo acima merece um comentário adicional. As 
    competências são estabelecidas pelo decreto que aprova a estrutura regimental ou o estatuto do órgão ou da entidade, motivo pelo qual não cabe o uso da expressão “exercer outras competências que lhe forem cometidas”.
    Caso o órgão ou entidade julgue necessário atribuir tais atividades a unidades ou subunidades administrativas, isso poderá ser feito no regimento interno. 
@@ -483,28 +489,20 @@ com a próxima unidade descrita no art. 2º do Anexo I.
  
 .. admonition:: Pontos de atenção
  
-    #. Os primeiros cargos e funções constantes na tabela serão os que assessoram
-      diretamente a autoridade máxima (categorias 2 ou 3).
+    #. Os primeiros cargos e funções constantes na tabela serão os que assessoram diretamente a autoridade máxima (categorias 2 ou 3).
  
-    #. Os CCE ou as FCE de mesma denominação não podem ter relação de subordinação
-      entre si.
+    #. Os CCE ou as FCE de mesma denominação não podem ter relação de subordinação entre si.
  
-    #. Todas as alterações realizadas por portaria da autoridade máxima devem ser
-      consideradas no novo quadro demonstrativo (e no quadro resumo de custos), já
-      que esse será o retrato mais recente da estrutura da entidade. Alterações não
-      incorporadas — ainda que acidentalmente — exigirão nova portaria de realocação
-      ou permuta e, provavelmente, novos atos de nomeação ou designação.
+    #. Todas as alterações realizadas por portaria da autoridade máxima devem ser consideradas no novo quadro demonstrativo (e no quadro resumo de custos), já que esse será o retrato mais recente da estrutura da entidade. Alterações não incorporadas — ainda que acidentalmente — exigirão nova portaria de realocação ou permuta e, provavelmente, novos atos de nomeação ou designação.
  
-    #. O custo da estrutura proposta deve sempre ser considerado no ato de sua
-      construção. Propostas com impacto orçamentário dependem da disponibilidade de
-      cargos e funções na reserva técnica e exigem articulação junto à Seges,
-      podendo não ser acatadas em sua integralidade, ainda que cumpram requisitos
-      legais e de boas práticas.
+    #. O custo da estrutura proposta deve sempre ser considerado no ato de sua construção. Propostas com impacto orçamentário dependem da disponibilidade de cargos e funções na reserva técnica e exigem articulação junto à Seges, podendo não ser acatadas em sua integralidade, ainda que cumpram requisitos legais e de boas práticas.
    
     #. Sugere-se que a data de vigência (vacatio legis) do decreto que aprovar ou alterar a estrutura regimental seja de, no mínimo, 21 dias após sua publicação, a fim de que haja tempo hábil para o detalhamento, no sistema informatizado do Siorg, de todas as unidades administrativas constantes do quadro demonstrativo de cargos e funções. 
-     Os prazos estabelecidos pelo `Decreto nº 9.739, de 2019 <decreto-9739_>`_ são:
-     - o dia útil anterior à data de entrada em vigor do decreto; ou
-     - vinte dias após a data de publicação do decreto, na hipótese de a vacatio legis do decreto ser superior a esse prazo.
+     
+     Os prazos estabelecidos pelo `Decreto nº 9.739, de 28 de março de 2019 <decreto-9739_>`_ são:
+
+     * o dia útil anterior à data de entrada em vigor do decreto; ou
+     * vinte dias após a data de publicação do decreto, na hipótese de a vacatio legis do decreto ser superior a esse prazo.
 
 Demais tabelas que compõem um decreto de estrutura regimental
 -------------------------------------------------------------

@@ -177,11 +177,11 @@ Também é importante dar preferência a construções simples e diretas, compos
 
 * expressões ou locuções verbais, como:
 
-- “tratar de assuntos relativos a ...”;
-- “realizar a coordenação de políticas...” ou “realizar gestões junto a ...”;
-- “atuar para promover a articulação e a orientação” ou ainda “promover a articulação”;
-- “empreender a articulação das ações governamentais”; e
-- “manter registro” – substituir por registrar e armazenar;
+ - “tratar de assuntos relativos a ...”;
+ - “realizar a coordenação de políticas...” ou “realizar gestões junto a ...”;
+ - “atuar para promover a articulação e a orientação” ou ainda “promover a articulação”;
+ - “empreender a articulação das ações governamentais”; e
+ - “manter registro” – substituir por registrar e armazenar;
 
 * verbos como “promover”, “assegurar” e “garantir”, que usualmente são utilizados para definir objetivos institucionais ou de políticas públicas, mas que não costumam ser adequados para competências de unidades;
 
@@ -189,7 +189,7 @@ Também é importante dar preferência a construções simples e diretas, compos
 
 * adjetivos na descrição das competências, como “estreita articulação”, “articulação abrangente”, “gestão eficiente dos recursos”;
 
-* ompetências redundantes, para a mesma unidade, como “coordenar a formulação de políticas setoriais” e “subsidiar a formulação de políticas públicas setoriais”.
+* competências redundantes, para a mesma unidade, como “coordenar a formulação de políticas setoriais” e “subsidiar a formulação de políticas públicas setoriais”.
 
 .. warning::
  
@@ -401,12 +401,12 @@ com a próxima unidade descrita no art. 2º do Anexo I.
  
     #. O custo da estrutura proposta deve ser avaliado antes de sua construção. Propostas com impacto orçamentário dependem da disponibilidade de cargos e funções na reserva técnica e exigem articulação junto à Seges, podendo não ser acatadas em sua integralidade, ainda que cumpram requisitos legais e de boas práticas.
 
-    #. Sugere-se que a data de vigência (vacatio legis) do decreto que aprovar ou alterar a estrutura regimental seja de, no mínimo, 21 dias após sua publicação, a fim de que haja tempo hábil para o detalhamento, no sistema informatizado do Siorg, de todas as unidades administrativas constantes do quadro demonstrativo de cargos e funções. 
+    #. Sugere-se que a data de vigência (*vacatio legis*) do decreto que aprovar ou alterar a estrutura regimental seja de, no mínimo, 21 dias após sua publicação, a fim de que haja tempo hábil para o detalhamento, no sistema informatizado do Siorg, de todas as unidades administrativas constantes do quadro demonstrativo de cargos e funções. 
     
-    Os prazos estabelecidos pelo `Decreto nº 9.739, de 2019 <decreto-9739_>`_ são:
-    
-    * o dia útil anterior à data de entrada em vigor do decreto; ou
-    * vinte dias após a data de publicação do decreto, na hipótese de a vacatio legis do decreto ser superior a esse prazo.
+     Os prazos estabelecidos pelo `Decreto nº 9.739, de 28 de março de 2019 <decreto-9739_>`_ são:
+
+     * o dia útil anterior à data de entrada em vigor do decreto; ou
+     * vinte dias após a data de publicação do decreto, na hipótese de a vacatio legis do decreto ser superior a esse prazo.
  
 
 Demais tabelas que compõem um decreto de estrutura regimental
