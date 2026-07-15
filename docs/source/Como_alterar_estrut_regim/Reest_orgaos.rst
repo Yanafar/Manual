@@ -176,22 +176,22 @@ O detalhamento das competências, no Decreto, não pode extrapolar o escopo de a
 No registro das competências, também é necessário observar as orientações a seguir:
 #. dê preferência a construções simples e diretas, compostas pelo verbo que exprime a função pública que a unidade exerce;
 #. evite o uso de expressões ou locuções verbais, tais como:
-##) “tratar de assuntos relativos a ...”;
-b) “realizar a coordenação de políticas...” ou “realizar gestões junto a ...”;
-c) “atuar para promover a articulação e a orientação” ou ainda “promover a 
+   #. “tratar de assuntos relativos a ...”;
+   #. “realizar a coordenação de políticas...” ou “realizar gestões junto a ...”;
+   #. “atuar para promover a articulação e a orientação” ou ainda “promover a 
 articulação”;
-d) “empreender a articulação das ações governamentais”; e
-e) “manter registro” – substituir por registrar e armazenar;
-III. evite o uso de verbos como “promover”, “assegurar” e “garantir”, que usualmente são utilizados para definir objetivos institucionais ou de políticas públicas, mas que não costumam ser adequados para competências de unidades;
-IV. evite o uso de gerúndio no registro de competências, como “disseminando”, “articulando”, “realizando”, “ampliando o acesso”;
-V. evite o uso de adjetivos na descrição das competências, como “estreita articulação”, “articulação abrangente”, “gestão eficiente dos recursos”;
-VI. evite o registro de competências redundantes, para a mesma unidade, como “coordenar a formulação de políticas setoriais” e “subsidiar a formulação de políticas públicas setoriais”.
+   #. “empreender a articulação das ações governamentais”; e
+   #. “manter registro” – substituir por registrar e armazenar;
+#. evite o uso de verbos como “promover”, “assegurar” e “garantir”, que usualmente são utilizados para definir objetivos institucionais ou de políticas públicas, mas que não costumam ser adequados para competências de unidades;
+#. evite o uso de gerúndio no registro de competências, como “disseminando”, “articulando”, “realizando”, “ampliando o acesso”;
+#. evite o uso de adjetivos na descrição das competências, como “estreita articulação”, “articulação abrangente”, “gestão eficiente dos recursos”;
+#. evite o registro de competências redundantes, para a mesma unidade, como “coordenar a formulação de políticas setoriais” e “subsidiar a formulação de políticas públicas setoriais”.
 
 .. warning::
  
    Não devem ser inseridas no Decreto as atividades de rotina administrativa interna, as atividades que são comuns ou que podem ser realizadas por todas as unidades, nem atribuições indefinidas, tais como:
    
-   ##) preparar ou participar de reuniões;
+   #. preparar ou participar de reuniões;
    #. coletar, sistematizar, consolidar, analisar dados e/ou informações;
    #. elaborar regimento interno;
    #. articular-se ou realizar articulação com outras unidades do Ministério ou da entidade;
