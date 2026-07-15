@@ -191,7 +191,7 @@ VI. evite o registro de competências redundantes, para a mesma unidade, como �
  
    Não devem ser inseridas no Decreto as atividades de rotina administrativa interna, as atividades que são comuns ou que podem ser realizadas por todas as unidades, nem atribuições indefinidas, tais como:
    
-   #. preparar ou participar de reuniões;
+   ##) preparar ou participar de reuniões;
    #. coletar, sistematizar, consolidar, analisar dados e/ou informações;
    #. elaborar regimento interno;
    #. articular-se ou realizar articulação com outras unidades do Ministério ou da entidade;
