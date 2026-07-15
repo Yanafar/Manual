@@ -161,7 +161,7 @@ Como o Gabinete do Ministro é uma unidade obrigatória em todos os órgãos com
    I - xxx"
  
 Regras sobre a redação de competências
-++++++++++++++++++++++++++++++++++++++
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 O detalhamento das competências, no Decreto, não pode extrapolar o escopo de atuação fixado na Lei para o órgão ou entidade . O objetivo é apenas detalhá-las e organizar a sua distribuição entre as Secretarias ou Departamentos, de forma harmoniosa e clara, visando a implementação da estratégia organizacional. É relevante, ainda, garantir que não haja conflitos de competência internos, entre as diversas unidades administrativas, ou externos, em relação a outros órgãos ou entidades.
 
