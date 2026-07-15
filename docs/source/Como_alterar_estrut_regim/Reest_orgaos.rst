@@ -173,19 +173,23 @@ O detalhamento das competências, no Decreto, não pode extrapolar o escopo de a
  
    Todas as unidades setoriais têm suas atribuições gerais estabelecidas por normas específicas e, em alguns casos, a redação de suas competências foi padronizada pelo órgão central do sistema.
 
-Também é importante observar as orientações a seguir:
+Também é importante dar preferência a construções simples e diretas, compostas pelo verbo que exprime a função pública que a unidade exerce **e evitar o uso** de:
 
-#. dê preferência a construções simples e diretas, compostas pelo verbo que exprime a função pública que a unidade exerce;
-#. evite o uso de expressões ou locuções verbais, como:
+* expressões ou locuções verbais, como:
+
 - “tratar de assuntos relativos a ...”;
 - “realizar a coordenação de políticas...” ou “realizar gestões junto a ...”;
 - “atuar para promover a articulação e a orientação” ou ainda “promover a articulação”;
 - “empreender a articulação das ações governamentais”; e
 - “manter registro” – substituir por registrar e armazenar;
-#. evite o uso de verbos como “promover”, “assegurar” e “garantir”, que usualmente são utilizados para definir objetivos institucionais ou de políticas públicas, mas que não costumam ser adequados para competências de unidades;
-#. evite o uso de gerúndio no registro de competências, como “disseminando”, “articulando”, “realizando”, “ampliando o acesso”;
-#. evite o uso de adjetivos na descrição das competências, como “estreita articulação”, “articulação abrangente”, “gestão eficiente dos recursos”;
-#. evite o registro de competências redundantes, para a mesma unidade, como “coordenar a formulação de políticas setoriais” e “subsidiar a formulação de políticas públicas setoriais”.
+
+* verbos como “promover”, “assegurar” e “garantir”, que usualmente são utilizados para definir objetivos institucionais ou de políticas públicas, mas que não costumam ser adequados para competências de unidades;
+
+* gerúndio no registro de competências, como “disseminando”, “articulando”, “realizando”, “ampliando o acesso”;
+
+* adjetivos na descrição das competências, como “estreita articulação”, “articulação abrangente”, “gestão eficiente dos recursos”;
+
+* ompetências redundantes, para a mesma unidade, como “coordenar a formulação de políticas setoriais” e “subsidiar a formulação de políticas públicas setoriais”.
 
 .. warning::
  
@@ -256,7 +260,7 @@ Também é importante observar as orientações a seguir:
  
 
 Capítulo IV — DAS ATRIBUIÇÕES DOS DIRIGENTES
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Esse capítulo descreve as atribuições dos principais dirigentes do órgão, destacando-se aqueles que ocupam cargos ou funções de nível 17 ou 18.
 
@@ -310,7 +314,7 @@ funções comissionadas de que o órgão dispõe, representados por códigos, co
    :align: center
    :scale: 60
  
-   Exemplo de Anexo II a — quadro demonstrativo de cargos e funções.
+   Exemplo de Anexo IIa — quadro demonstrativo de cargos e funções.
  
 Cada cargo ou função tem um código que identifica o tipo, a categoria e o nível. A :numref:`fig-codigo-cce-fce` ilustra cada parte do código.
  
@@ -377,7 +381,6 @@ de nível 17 ou 18:
    a todos os demais deve ser associada uma unidade sem nomenclatura específica.
  
 **Linhas seguintes**
-
  
 Observam a ordem decrescente de nível. Dentro do mesmo nível, observa-se a ordem
 crescente da categoria. Se existe um cargo e uma função com a mesma categoria e
@@ -399,9 +402,11 @@ com a próxima unidade descrita no art. 2º do Anexo I.
     #. O custo da estrutura proposta deve ser avaliado antes de sua construção. Propostas com impacto orçamentário dependem da disponibilidade de cargos e funções na reserva técnica e exigem articulação junto à Seges, podendo não ser acatadas em sua integralidade, ainda que cumpram requisitos legais e de boas práticas.
 
     #. Sugere-se que a data de vigência (vacatio legis) do decreto que aprovar ou alterar a estrutura regimental seja de, no mínimo, 21 dias após sua publicação, a fim de que haja tempo hábil para o detalhamento, no sistema informatizado do Siorg, de todas as unidades administrativas constantes do quadro demonstrativo de cargos e funções. 
-    Os prazos estabelecidos pelo `Decreto nº 9.739, de 2019 <decreto-9739_>` são:
-    - o dia útil anterior à data de entrada em vigor do decreto; ou
-    - vinte dias após a data de publicação do decreto, na hipótese de a vacatio legis do decreto ser superior a esse prazo.
+    
+    Os prazos estabelecidos pelo `Decreto nº 9.739, de 2019 <decreto-9739_>`_ são:
+    
+    * o dia útil anterior à data de entrada em vigor do decreto; ou
+    * vinte dias após a data de publicação do decreto, na hipótese de a vacatio legis do decreto ser superior a esse prazo.
  
 
 Demais tabelas que compõem um decreto de estrutura regimental
