@@ -176,12 +176,11 @@ O detalhamento das competências, no Decreto, não pode extrapolar o escopo de a
 No registro das competências, também é necessário observar as orientações a seguir:
 #. dê preferência a construções simples e diretas, compostas pelo verbo que exprime a função pública que a unidade exerce;
 #. evite o uso de expressões ou locuções verbais, tais como:
-   #. “tratar de assuntos relativos a ...”;
-   #. “realizar a coordenação de políticas...” ou “realizar gestões junto a ...”;
-   #. “atuar para promover a articulação e a orientação” ou ainda “promover a 
-articulação”;
-   #. “empreender a articulação das ações governamentais”; e
-   #. “manter registro” – substituir por registrar e armazenar;
+* “tratar de assuntos relativos a ...”;
+* “realizar a coordenação de políticas...” ou “realizar gestões junto a ...”;
+* “atuar para promover a articulação e a orientação” ou ainda “promover a articulação”;
+* “empreender a articulação das ações governamentais”; e
+* “manter registro” – substituir por registrar e armazenar;
 #. evite o uso de verbos como “promover”, “assegurar” e “garantir”, que usualmente são utilizados para definir objetivos institucionais ou de políticas públicas, mas que não costumam ser adequados para competências de unidades;
 #. evite o uso de gerúndio no registro de competências, como “disseminando”, “articulando”, “realizando”, “ampliando o acesso”;
 #. evite o uso de adjetivos na descrição das competências, como “estreita articulação”, “articulação abrangente”, “gestão eficiente dos recursos”;
@@ -191,19 +190,19 @@ articulação”;
  
    Não devem ser inseridas no Decreto as atividades de rotina administrativa interna, as atividades que são comuns ou que podem ser realizadas por todas as unidades, nem atribuições indefinidas, tais como:
    
-   #. preparar ou participar de reuniões;
-   #. coletar, sistematizar, consolidar, analisar dados e/ou informações;
-   #. elaborar regimento interno;
-   #. articular-se ou realizar articulação com outras unidades do Ministério ou da entidade;
-   #. acompanhar assuntos de sua competência;
-   #. fornecer subsídios;
-   #. propor, realizar ou promover estudos, projetos e/ou análises;
-   #. subsidiar a elaboração da proposição orçamentária da unidade;
-   #. assistir o Ministro nos assuntos de competência da Secretaria;
-   #. assistir o Secretário nos assuntos de competência do Departamento;
-   #. representar a Secretaria;
-   #. realizar outras atividades correlatas estabelecidas pelo Ministro ou Secretário; e
-   #. exercer outras atribuições determinadas pelo Ministro ou Secretário.
+   * preparar ou participar de reuniões;
+   * coletar, sistematizar, consolidar, analisar dados e/ou informações;
+   * elaborar regimento interno;
+   * articular-se ou realizar articulação com outras unidades do Ministério ou da entidade;
+   * acompanhar assuntos de sua competência;
+   * fornecer subsídios;
+   * propor, realizar ou promover estudos, projetos e/ou análises;
+   * subsidiar a elaboração da proposição orçamentária da unidade;
+   * assistir o Ministro nos assuntos de competência da Secretaria;
+   * assistir o Secretário nos assuntos de competência do Departamento;
+   * representar a Secretaria;
+   * realizar outras atividades correlatas estabelecidas pelo Ministro ou Secretário; e
+   * exercer outras atribuições determinadas pelo Ministro ou Secretário.
    
    Por ser bastante comum, o último exemplo acima merece um comentário adicional. As 
    competências são estabelecidas pelo decreto que aprova a estrutura regimental ou o estatuto do órgão ou da entidade, motivo pelo qual não cabe o uso da expressão “exercer outras competências que lhe forem cometidas”.
