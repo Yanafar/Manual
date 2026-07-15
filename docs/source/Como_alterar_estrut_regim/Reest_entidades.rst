@@ -203,6 +203,8 @@ Por padrão, abrange somente um artigo, que traz a organização interna da enti
 * **V —** órgãos colegiados (se houver): engloba colegiados criados por lei, sob
   responsabilidade do órgão.
  
+Observe que a ordem das unidades estabelecida no art. 2º definirá a ordem das unidades dispostas no Capítulo III e no Quadro demonostrativo dos cargos e funções :ref:`AnexoIIaent`.  
+
 Exemplo simplificado:
  
 .. _organograma-entidade:
@@ -401,7 +403,8 @@ equivalente e dos demais dirigentes.
    de um órgão diretor, por exemplo, pode ensejar a inclusão de capítulo que trate
    "Da Diretoria Colegiada".
  
- 
+.. _AnexoIIaent:
+
 Anexo IIa: Quadro demonstrativo dos cargos em comissão e das funções comissionadas
 ----------------------------------------------------------------------------------
  
@@ -485,24 +488,28 @@ com a próxima unidade descrita no art. 2º do Anexo I.
  
 .. admonition:: Pontos de atenção
  
-   #. Os primeiros cargos e funções constantes na tabela serão os que assessoram
+    #. Os primeiros cargos e funções constantes na tabela serão os que assessoram
       diretamente a autoridade máxima (categorias 2 ou 3).
  
-   #. Os CCE ou as FCE de mesma denominação não podem ter relação de subordinação
+    #. Os CCE ou as FCE de mesma denominação não podem ter relação de subordinação
       entre si.
  
-   #. Todas as alterações realizadas por portaria da autoridade máxima devem ser
+    #. Todas as alterações realizadas por portaria da autoridade máxima devem ser
       consideradas no novo quadro demonstrativo (e no quadro resumo de custos), já
       que esse será o retrato mais recente da estrutura da entidade. Alterações não
       incorporadas — ainda que acidentalmente — exigirão nova portaria de realocação
       ou permuta e, provavelmente, novos atos de nomeação ou designação.
  
-   #. O custo da estrutura proposta deve sempre ser considerado no ato de sua
+    #. O custo da estrutura proposta deve sempre ser considerado no ato de sua
       construção. Propostas com impacto orçamentário dependem da disponibilidade de
       cargos e funções na reserva técnica e exigem articulação junto à Seges,
       podendo não ser acatadas em sua integralidade, ainda que cumpram requisitos
       legais e de boas práticas.
- 
+   
+    #. Sugere-se que a data de vigência (vacatio legis) do decreto que aprovar ou alterar a estrutura regimental seja de, no mínimo, 21 dias após sua publicação, a fim de que haja tempo hábil para o detalhamento, no sistema informatizado do Siorg, de todas as unidades administrativas constantes do quadro demonstrativo de cargos e funções. 
+     Os prazos estabelecidos pelo `Decreto nº 9.739, de 2019 <decreto-9739_>`_ são:
+     - o dia útil anterior à data de entrada em vigor do decreto; ou
+     - vinte dias após a data de publicação do decreto, na hipótese de a vacatio legis do decreto ser superior a esse prazo.
 
 Demais tabelas que compõem um decreto de estrutura regimental
 -------------------------------------------------------------
@@ -558,7 +565,7 @@ nessas tabelas devem ser idênticas àquelas listadas no corpo do decreto.
  
    Exemplo de tabela de remanejamento e o correspondente texto no corpo do decreto
  
-A planilha disponibilizada pelo Departamento de Modelos Organizacionais produz
+A :ref:`planilha` disponibilizada pelo Diretoria de Modelos Organizacionais produz
 esses quadros automaticamente a partir do novo quadro demonstrativo informado
 pelo órgão.
  
@@ -886,6 +893,10 @@ Sobre as competências: necessariamente descritas em Decreto.
 Os órgãos específicos singulares devem ser definidos e organizados de forma que
 a entidade seja capaz de exercer a finalidade e as competências definidas em sua
 lei de criação.
+
+.. admonition:: Importante
+ 
+  Devem ser evitadas Diretorias e Departamentos formados por apenas uma Coordenação-Geral, salvo quando sua natureza justificar uma estrutura formada por Gerentes de Projeto.
  
 Outras Unidades
 ~~~~~~~~~~~~~~~
@@ -909,7 +920,7 @@ Unidades descentralizadas
 +++++++++++++++++++++++++
  
 O termo se refere à descentralização física, ou seja, às unidades da entidade
-situadas em município diferente do da sede e que executam ações em nível local.
+situadas em município diferente do da sede e que executam ações em nível local ou regional.
  
 Unidades obrigatórias: não
  
@@ -976,13 +987,8 @@ decisório institucional de condução de determinada política pública. Esses
 colegiados participam das decisões sobre os rumos das políticas e não sobre
 questões de gestão interna dos órgãos aos quais se vinculam.
  
-Esses órgãos, embora previstos na estrutura organizacional, não dispõem de
-estrutura interna de cargos, e se constituem por representantes de órgãos e
-entidades do Poder Público e, em alguns casos, também de entidades privadas
-(composição pluripessoal). Seus membros não detêm cargos pela participação no
-conselho e não recebem remuneração de qualquer natureza por essa função.
-Normalmente, a presidência do conselho é atribuição do cargo de dirigente maior
-do órgão ou entidade ao qual ele está subordinado.
+Esses órgãos, embora previstos na estrutura organizacional, não costumam dispor de estrutura interna de cargos (exceto se houver previsão legal para tanto), e usualmente se constituem por representantes de órgãos e entidades do Poder Público e, em alguns casos, também de entidades privadas (composição pluripessoal). Seus membros não detêm cargos pela participação no conselho e não recebem remuneração de qualquer natureza por essa função.
+Normalmente, a presidência do conselho é atribuição do cargo de dirigente maior do órgão ou entidade ao qual ele está subordinado.
  
 São exemplos: Comitê Gestor, Câmara Recursal, Conselho Técnico-Científico,
 Conselho Superior, Conselho Deliberativo, Conselho Consultivo.
@@ -1001,7 +1007,7 @@ Consequentemente, possuem significativa flexibilidade para organizar sua estrutu
 regimental e não precisam de um novo decreto presidencial quando a alteram,
 contanto que não extrapolem o custo de sua atual estrutura. Assim, a estrutura
 mais atualizada de uma agência reguladora é aquela que consta em seu regimento
-interno — aprovado por Resolução de sua Diretoria Colegiada —, razão pela qual
+interno — aprovado por Resolução de sua Diretoria Colegiada e cadastrado no sistema informatizado do Siorg —, razão pela qual
 o decreto que aprova sua estrutura traz apenas as competências e finalidades da
 agência e de suas unidades obrigatórias, as regras de funcionamento de seus
 colegiados e as atribuições de seus dirigentes.
@@ -1103,8 +1109,7 @@ desenhados para uma adequada gestão de organizações voltadas ao ensino (veja 
    O órgão responsável pela gestão e distribuição desses cargos e funções é o
    Ministério da Educação, a quem compete analisar as demandas das instituições
    federais de ensino. Se necessárias transformações, cabe ao MEC instruir o
-   processo necessário à edição de decreto presidencial e submetê-lo ao MGI,
-   garantindo que o ato ocorra sem aumento de despesa.
+   processo necessário à edição de decreto presidencial e submetê-lo ao MGI, para posterior encaminhamento à Casa Civil, garantindo que o ato ocorra sem aumento de despesa.
  
    .. TODO: inserir link para download do modelo de decreto (substituir
       "(download de modelo)")

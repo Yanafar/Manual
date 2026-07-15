@@ -127,7 +127,9 @@ IV - órgãos colegiados (se houver): engloba colegiados criados por lei, sob
 responsabilidade do órgão.
 
 V - entidades vinculadas (se houver): engloba autarquias, fundações públicas
-e empresas públicas vinculadas ao órgão.  
+e empresas públicas vinculadas ao órgão. 
+
+Observe que a ordem das unidades estabelecida no art. 2º definirá a ordem das unidades dispostas no Capítulo III e no Quadro demonostrativo dos cargos e funções :ref:`AnexoIIa`.  
 
 
 **Exemplo simplificado**
@@ -290,6 +292,8 @@ Adota-se seções específicas, com um artigo cada, para tratar, separada e resp
    Art. 69.  Ao Chefe de Gabinete do Ministro de Estado, aos Chefes de Assessorias Especiais, ao Consultor Jurídico, aos Subsecretários, aos Diretores, ao Corregedor, ao Ouvidor-Geral, aos Coordenadores-Gerais, aos Coordenadores e aos demais dirigentes incumbe planejar, dirigir, coordenar e orientar a execução das atividades de suas unidades e exercer outras atribuições que lhes forem cometidas pelo Ministro de Estado no âmbito de sua competência.
 
  
+.. _AnexoIIa:
+
 Anexo IIa: Quadro demonstrativo dos cargos em comissão e das funções comissionadas
 ----------------------------------------------------------------------------------
  
@@ -382,27 +386,31 @@ com a próxima unidade descrita no art. 2º do Anexo I.
  
 .. admonition:: Pontos de atenção
  
-   #. O cargo do Ministro não consta no quadro.
+    #. O cargo do Ministro não consta no quadro.
  
-   #. Os primeiros cargos e funções constantes na tabela serão os que assessoram
+    #. Os primeiros cargos e funções constantes na tabela serão os que assessoram
       diretamente o Ministro (categorias 2 ou 3).
  
-   #. Os CCE ou as FCE de mesma denominação não podem ter relação de subordinação
+    #. Os CCE ou as FCE de mesma denominação não podem ter relação de subordinação
       entre si.
  
-   #. Todas as alterações realizadas por portaria ministerial devem ser consideradas
+    #. Todas as alterações realizadas por portaria ministerial devem ser consideradas
       no novo quadro demonstrativo (e no quadro resumo de custos), já que esse será
       o retrato mais recente da estrutura do órgão. Alterações não incorporadas
       — ainda que acidentalmente — exigirão nova portaria ministerial de realocação
       ou permuta e, provavelmente, novos atos de nomeação ou designação.
  
-   #. O custo da estrutura proposta deve ser avaliado antes de sua construção.
+    #. O custo da estrutura proposta deve ser avaliado antes de sua construção.
       Propostas com impacto orçamentário dependem da disponibilidade de cargos e
       funções na reserva técnica e exigem articulação junto à Seges, podendo não
       ser acatadas em sua integralidade, ainda que cumpram requisitos legais e de
       boas práticas.
- 
 
+    #. Sugere-se que a data de vigência (vacatio legis) do decreto que aprovar ou alterar a estrutura regimental seja de, no mínimo, 21 dias após sua publicação, a fim de que haja tempo hábil para o detalhamento, no sistema informatizado do Siorg, de todas as unidades administrativas constantes do quadro demonstrativo de cargos e funções. 
+    Os prazos estabelecidos pelo `Decreto nº 9.739, de 2019 <decreto-9739_>`_ são:
+    - o dia útil anterior à data de entrada em vigor do decreto; ou
+    - vinte dias após a data de publicação do decreto, na hipótese de a vacatio legis do decreto ser superior a esse prazo.
+ 
 
 Demais tabelas que compõem um decreto de estrutura regimental
 -------------------------------------------------------------
@@ -424,7 +432,7 @@ mostrando seu somatório.
  
    Exemplo de quadro resumo de custos
  
-A planilha disponibilizada pelo Departamento de Modelos Organizacionais produz
+A :ref:`planilha` disponibilizada pelo Diretoria de Modelos Organizacionais produz
 esse quadro automaticamente a partir do novo quadro demonstrativo informado
 pelo órgão.
  
@@ -773,13 +781,13 @@ todas as competências definidas na lei que estabelece a organização básica d
  
 Regras específicas sobre a estrutura de cargos e funções que compõem as Secretarias:
  
-#. As Secretarias usualmente contam com um Gabinete (chefiado por um Chefe de
+#. As Secretarias mais robustas usualmente contam com um Gabinete (chefiado por um Chefe de
    Gabinete, ocupante de CCE ou FCE de código 1.13 ou 1.14, sem competências ou
    estrutura discriminada em Decreto) e um Secretário-Adjunto, de código 1.15 ou
    1.16.
  
 #. Às Secretarias se subordinam Diretorias ou Departamentos, responsáveis por
-   executar as atividades, políticas e programas planejados no âmbito da Secretaria.
+   executar as atividades, políticas e programas planejados no âmbito da Secretaria. Devem ser evitadas Secretarias formadas por apenas uma Diretoria ou Departamento.
  
 #. É possível estruturar uma ou mais unidades de nível 14 ou menor para atuação
    na assistência direta ao Secretário. No entanto, sugere-se cautela nessa medida,
@@ -809,7 +817,7 @@ e Departamentos:
  
 #. Às Diretorias e Departamentos podem se subordinar todas as unidades e cargos
    e funções de nível inferior àquele atribuído ao Diretor, à exceção das unidades
-   reservadas à assessoria direta e imediata ao Ministro.
+   reservadas à assessoria direta e imediata ao Ministro. Devem ser evitadas Diretorias e Departamentos formados por apenas uma Coordenação-Geral, salvo quando sua natureza justificar uma estrutura formada por Gerentes de Projeto.
  
 #. Todas as unidades, cargos e funções subordinados às Diretorias e Departamentos
    comporão um único bloco, organizando-se conforme regras associadas ao Quadro
@@ -838,7 +846,7 @@ Unidades descentralizadas
 ~~~~~~~~~~~~~~~~~~~~~~~~~
  
 O termo se refere à descentralização física, ou seja, às unidades do órgão
-situadas em município diferente do da sede e que executam ações em nível local.
+situadas em município diferente do da sede e que executam ações em nível local ou regional.
  
 Unidades obrigatórias: não
  
@@ -908,13 +916,8 @@ o processo decisório institucional de condução de determinada política públ
 Esses colegiados participam das decisões sobre os rumos das políticas e não sobre
 questões de gestão interna dos órgãos aos quais se vinculam.
  
-Esses órgãos, embora previstos na estrutura organizacional, não dispõem de
-estrutura interna de cargos e se constituem por representantes de órgãos e
-entidades do Poder Público e, em alguns casos, também de entidades privadas
-(composição pluripessoal). Seus membros não detêm cargos pela participação no
-conselho e não recebem remuneração de qualquer natureza por essa função.
-Normalmente, a presidência do conselho é atribuição do cargo de dirigente maior
-do órgão ou entidade ao qual ele está subordinado.
+Esses órgãos, embora previstos na estrutura organizacional, não costumam dispor de estrutura interna de cargos (exceto se houver previsão legal para tanto), e usualmente se constituem por representantes de órgãos e entidades do Poder Público e, em alguns casos, também de entidades privadas (composição pluripessoal). Seus membros não detêm cargos pela participação no conselho e não recebem remuneração de qualquer natureza por essa função.
+Normalmente, a presidência do conselho é atribuição do cargo de dirigente maior do órgão ou entidade ao qual ele está subordinado.
  
 A criação de colegiados, a ser tratada em ato normativo à parte do decreto de
 estrutura regimental ou estatuto, deve observar os critérios estabelecidos no

@@ -78,8 +78,6 @@ Organização sequencial padrão
    estrutura, regramentos específicos, revogação do decreto que trata da estrutura
    atual e, se for o caso, de outros que a alteraram, e data de vigência.
  
-   .. TODO: inserir link para download do modelo de decreto
- 
    * **Anexo I** — descreve toda a estrutura regimental ou estatuto, com as
      competências e atribuições de suas unidades;
  
@@ -122,8 +120,6 @@ O texto principal trará os remanejamentos necessários, a referência ao Anexo 
 transformação de cargos e funções (se houver), a revogação de algum ato ou
 dispositivo normativo (se houver) e a data de vigência da nova estrutura.
  
-.. TODO: inserir link para download do modelo de decreto
- 
 * **Anexo I** — quadros com os remanejamentos descritos no texto principal, com
   custo unitário e total;
  
@@ -163,8 +159,6 @@ transformação de cargos e funções (se houver), as alterações propostas na 
 básica e nas competências das unidades específicas, regramentos específicos (se
 houver), a revogação de algum ato ou dispositivo normativo (se houver) e a data
 de vigência da nova estrutura.
- 
-.. TODO: inserir link para download do modelo de decreto
 
  **Anexo I** — quadros com os remanejamentos descritos no texto principal, com
   custo unitário e total;
@@ -212,10 +206,8 @@ Organização sequencial padrão
    (se houver), regramentos específicos (se houver), revogação de algum ato ou
    dispositivo normativo (se houver) e data de vigência.
  
-   .. TODO: inserir link para download do modelo de decreto
- 
    * **Anexo (quando necessário)** — quadro demonstrativo dos CCE e FCE
-     transformados. Este anexo nem sempre é necessário.
+     transformados.
  
      .. TODO: inserir :ref: ao capítulo sobre critérios para o Anexo CCE/FCE
  
