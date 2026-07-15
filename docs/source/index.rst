@@ -4,7 +4,7 @@ Estruturas Organizacionais
 .. figure:: _static/images/banner_inicial.png
 
 
-O manual reúne as orientações necessárias para elaborar e revisar estruturas
+Este manual reúne as orientações necessárias para elaborar e revisar estruturas
 organizacionais de ministérios e entidades da administração pública federal.
 Acesse o conteúdo pelo menu lateral ou faça o download da versão em PDF.
  
@@ -49,7 +49,7 @@ Acesse o conteúdo pelo menu lateral ou faça o download da versão em PDF.
    :hidden:
    :titlesonly:
 
-   01_Introducao/index
+   Introducao/index
    02_Organizacao/index
    04_Conceitos/index
    05_Cargos/index
