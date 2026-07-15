@@ -165,7 +165,7 @@ Como o Gabinete do Ministro é uma unidade obrigatória em todos os órgãos com
 Regras sobre a redação de competências
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-O detalhamento das competências, no Decreto, não pode extrapolar o escopo de atuação fixado na Lei para o órgão ou entidade . O objetivo é apenas detalhá-las e organizar a sua distribuição entre as Secretarias ou Departamentos, de forma harmoniosa e clara, visando a implementação da estratégia organizacional. É relevante, ainda, garantir que não haja conflitos de competência internos, entre as diversas unidades administrativas, ou externos, em relação a outros órgãos ou entidades.
+O detalhamento das competências, no Decreto, não pode extrapolar o escopo de atuação fixado na Lei para o órgão ou entidade. O objetivo é apenas detalhá-las e organizar a sua distribuição entre as Secretarias ou Departamentos, de forma harmoniosa e clara, visando a implementação da estratégia organizacional. É relevante, ainda, garantir que não haja conflitos de competência internos, entre as diversas unidades administrativas, ou externos, em relação a outros órgãos ou entidades.
 
 .. note::
  
@@ -390,26 +390,16 @@ com a próxima unidade descrita no art. 2º do Anexo I.
  
     #. O cargo do Ministro não consta no quadro.
  
-    #. Os primeiros cargos e funções constantes na tabela serão os que assessoram
-      diretamente o Ministro (categorias 2 ou 3).
+    #. Os primeiros cargos e funções constantes na tabela serão os que assessoram diretamente o Ministro (categorias 2 ou 3).
  
-    #. Os CCE ou as FCE de mesma denominação não podem ter relação de subordinação
-      entre si.
+    #. Os CCE ou as FCE de mesma denominação não podem ter relação de subordinação entre si.
  
-    #. Todas as alterações realizadas por portaria ministerial devem ser consideradas
-      no novo quadro demonstrativo (e no quadro resumo de custos), já que esse será
-      o retrato mais recente da estrutura do órgão. Alterações não incorporadas
-      — ainda que acidentalmente — exigirão nova portaria ministerial de realocação
-      ou permuta e, provavelmente, novos atos de nomeação ou designação.
+    #. Todas as alterações realizadas por portaria ministerial devem ser consideradas no novo quadro demonstrativo (e no quadro resumo de custos), já que esse será o retrato mais recente da estrutura do órgão. Alterações não incorporadas — ainda que acidentalmente — exigirão nova portaria ministerial de realocação ou permuta e, provavelmente, novos atos de nomeação ou designação.
  
-    #. O custo da estrutura proposta deve ser avaliado antes de sua construção.
-      Propostas com impacto orçamentário dependem da disponibilidade de cargos e
-      funções na reserva técnica e exigem articulação junto à Seges, podendo não
-      ser acatadas em sua integralidade, ainda que cumpram requisitos legais e de
-      boas práticas.
+    #. O custo da estrutura proposta deve ser avaliado antes de sua construção. Propostas com impacto orçamentário dependem da disponibilidade de cargos e funções na reserva técnica e exigem articulação junto à Seges, podendo não ser acatadas em sua integralidade, ainda que cumpram requisitos legais e de boas práticas.
 
     #. Sugere-se que a data de vigência (vacatio legis) do decreto que aprovar ou alterar a estrutura regimental seja de, no mínimo, 21 dias após sua publicação, a fim de que haja tempo hábil para o detalhamento, no sistema informatizado do Siorg, de todas as unidades administrativas constantes do quadro demonstrativo de cargos e funções. 
-    Os prazos estabelecidos pelo `Decreto nº 9.739, de 2019 <decreto-9739_>`_ são:
+    Os prazos estabelecidos pelo `Decreto nº 9.739, de 2019 <decreto-9739_>` são:
     - o dia útil anterior à data de entrada em vigor do decreto; ou
     - vinte dias após a data de publicação do decreto, na hipótese de a vacatio legis do decreto ser superior a esse prazo.
  
