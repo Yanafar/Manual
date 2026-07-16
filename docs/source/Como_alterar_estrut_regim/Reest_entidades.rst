@@ -553,7 +553,8 @@ A :ref:`planilha` disponibilizada pelo Diretoria de Modelos Organizacionais prod
 esses quadros automaticamente a partir do novo quadro demonstrativo informado
 pela entidade.
  
- 
+.. _transformacoes:
+
 Anexo IV: Transformações de CCE e FCE
 +++++++++++++++++++++++++++++++++++++
  
@@ -1098,6 +1099,10 @@ desenhados para uma adequada gestão de organizações voltadas ao ensino (veja 
    processo necessário à edição de decreto presidencial e submetê-lo ao MGI, para posterior encaminhamento à Casa Civil, garantindo que o ato ocorra sem aumento de despesa.
 
    `Aqui <planilha-ifes_>`_ é possível baixar planilha elaborada pela Diretoria de Modelos Organizacionais, capaz de informar se a transformação proposta ocorre sem impacto orçamentário, facilitando eventuais ajustes antes de sua submissão à análise do MGI.
+
+   Já o modelo de decreto pode ser baixado `aqui <modelo-tipo6_>`_. 
+
+   Lembre-se: seu Anexo deve seguir as mesmas orientações da elaboração do :ref:`transformacoes`.  
 
    .. TODO: inserir link para download do modelo de decreto (substituir
       "(download de modelo)")

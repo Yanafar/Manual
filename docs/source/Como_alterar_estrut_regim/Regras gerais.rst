@@ -160,7 +160,7 @@ básica e nas competências das unidades específicas, regramentos específicos 
 houver), a revogação de algum ato ou dispositivo normativo (se houver) e a data
 de vigência da nova estrutura.
 
- **Anexo I** — quadros com os remanejamentos descritos no texto principal, com
+ * **Anexo I** — quadros com os remanejamentos descritos no texto principal, com
   custo unitário e total;
  
 * **Anexo II (quando necessário)** — quadro demonstrativo dos CCE e FCE com as

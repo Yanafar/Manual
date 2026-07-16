@@ -381,7 +381,7 @@ Todos esses cargos e funções são criados no âmbito do Ministério da Educaç
 Cargos de Direção (CD)
 """"""""""""""""""""""
  
-Foram instituídos pela `Lei nº 8.168, de 16 de janeiro de 1991 <lei-8168_>`_.
+Foram instituídos pela `Lei nº 8.168, de 16 de janeiro de 1991 <lei-8168_>_.
 Os Reitores ocupam, necessariamente, o CD-I.
  
 Funções Gratificadas (FG)
