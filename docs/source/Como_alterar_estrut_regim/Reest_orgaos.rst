@@ -199,7 +199,7 @@ Também é importante dar preferência a construções simples e diretas, compos
    * preparar ou participar de reuniões;
    * coletar, sistematizar, consolidar, analisar dados e/ou informações;
    * elaborar regimento interno;
-   * articular-se ou realizar articulação com outras unidades do Ministério ou da entidade;
+   * articular-se ou realizar articulação com outras unidades do Ministério;
    * acompanhar assuntos de sua competência;
    * fornecer subsídios;
    * propor, realizar ou promover estudos, projetos e/ou análises;
@@ -212,7 +212,7 @@ Também é importante dar preferência a construções simples e diretas, compos
    
    Por ser bastante comum, o último exemplo acima merece um comentário adicional. As 
    competências são estabelecidas pelo decreto que aprova a estrutura regimental do órgão, motivo pelo qual não cabe o uso da expressão “exercer outras competências que lhe forem cometidas”.
-   Caso o órgão ou entidade julgue necessário atribuir tais atividades a unidades ou subunidades administrativas, isso poderá ser feito no regimento interno. 
+   Caso o órgão julgue necessário atribuir tais atividades a unidades ou subunidades administrativas, isso poderá ser feito no regimento interno. 
 
 .. hint::
  
@@ -417,7 +417,7 @@ Anexo IIb: Quadro resumo de custos
 ++++++++++++++++++++++++++++++++++
  
 O Quadro resumo de custos informa o tamanho da estrutura organizacional de um
-órgão ou entidade em CCE-unitários (:ref:`cce-unitario`).
+órgão, em CCE-unitários (:ref:`cce-unitario`).
  
 Quando a estrutura está sendo alterada, esse quadro demonstra a situação nova em
 relação à situação atual, agregando os cargos e funções de mesmo código e
@@ -481,7 +481,7 @@ ou negativa.
  
 Existem dois cenários para a geração dessa tabela:
  
-#. **A proposta parte dos cargos e funções já disponíveis no órgão ou entidade**
+#. **A proposta parte dos cargos e funções já disponíveis no órgão**
    — os cargos e funções que deixam de existir têm custo total igual ou maior ao
    dos novos. Nesse caso, a :ref:`planilha` disponibilizada pela Diretoria de Modelos
    Organizacionais produz o quadro automaticamente a partir do novo quadro
@@ -639,7 +639,7 @@ Sobre as competências: necessariamente descritas em Decreto, definidas pelo
  
    A nomeação, a designação, a exoneração ou a dispensa dos titulares das
    unidades setoriais do Sistema de Ouvidoria do Poder Executivo federal será
-   submetida, pelo dirigente máximo do órgão ou da entidade, à aprovação da
+   submetida, pelo dirigente máximo do órgão, à aprovação da
    Controladoria-Geral da União.
  
 Corregedoria
@@ -828,7 +828,7 @@ Unidades obrigatórias: não
  
 Nomenclatura permite complemento: não
  
-Sobre o titular: `nomenclaturas <:ref:denominacoes adotadas_>` para os CCE ou FCE de categoria 1, Código 1.14 ou menor. 
+Sobre o titular: conforme :ref:`denominacoes` de categoria 1, Código 1.14 ou menor. 
  
 .. TODO: inserir referência à tabela de titulares por tipo de unidade
  
@@ -904,7 +904,7 @@ diferenciadas. Seus representantes podem ser originários do setor público, do
 setor privado ou da sociedade civil, segundo a natureza da representação. São
 conhecidos pelos nomes de Conselhos, Comitês, Câmaras, Comissões, entre outros.
  
-Alguns órgãos ou entidades do Poder Executivo federal dispõem, dentro de seu
+Alguns órgãos do Poder Executivo federal dispõem, dentro de seu
 sistema de governança organizacional, de órgãos colegiados de caráter
 deliberativo, consultivo ou judicante, criados com o propósito de contribuir para
 o processo decisório institucional de condução de determinada política pública.
