@@ -828,7 +828,7 @@ Unidades obrigatórias: não
  
 Nomenclatura permite complemento: não
  
-Sobre o titular: conforme :ref:`denominacoes` de categoria 1, Código 1.14 ou menor. 
+Sobre o titular: conforme :ref:`denominacoesCCEFCE`, para Código 1.14 ou menor. 
  
 .. TODO: inserir referência à tabela de titulares por tipo de unidade
  
