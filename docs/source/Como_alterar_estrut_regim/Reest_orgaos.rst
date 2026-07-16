@@ -165,7 +165,7 @@ Como o Gabinete do Ministro é uma unidade obrigatória em todos os órgãos com
 Regras sobre a redação de competências
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-O detalhamento das competências, no Decreto, não pode extrapolar o escopo de atuação fixado na Lei para o órgão ou entidade. O objetivo é apenas detalhá-las e organizar a sua distribuição entre as Secretarias ou Departamentos, de forma harmoniosa e clara, visando a implementação da estratégia organizacional. É relevante, ainda, garantir que não haja conflitos de competência internos, entre as diversas unidades administrativas, ou externos, em relação a outros órgãos ou entidades.
+O detalhamento das competências, no Decreto, não pode extrapolar o escopo de atuação fixado na Lei. O objetivo é apenas detalhá-las e organizar a sua distribuição entre as Secretarias ou Departamentos, de forma harmoniosa e clara, visando a implementação da estratégia organizacional. É relevante, ainda, garantir que não haja conflitos de competência internos, entre as diversas unidades administrativas, ou externos, em relação a outros órgãos ou entidades.
 
 .. note::
  
@@ -173,11 +173,11 @@ O detalhamento das competências, no Decreto, não pode extrapolar o escopo de a
  
    Todas as unidades setoriais têm suas atribuições gerais estabelecidas por normas específicas e, em alguns casos, a redação de suas competências foi padronizada pelo órgão central do sistema.
 
-Também é importante dar preferência a construções simples e diretas, compostas pelo verbo que exprime a função pública que a unidade exerce **e evitar o uso** de:
+Também é importante dar preferência a construções simples e diretas, compostas pelo verbo que exprime a função pública que a unidade exerce, **e evitar o uso** de:
 
 * expressões ou locuções verbais;
 
- **Exemplos:**
+ **Exemplos de construções a serem evitadas:**
   * “tratar de assuntos relativos a ...”;
   * “realizar a coordenação de políticas...” ou “realizar gestões junto a ...”;
   * “atuar para promover a articulação e a orientação” ou ainda “promover a articulação”;
@@ -211,7 +211,7 @@ Também é importante dar preferência a construções simples e diretas, compos
    * exercer outras atribuições determinadas pelo Ministro ou Secretário.
    
    Por ser bastante comum, o último exemplo acima merece um comentário adicional. As 
-   competências são estabelecidas pelo decreto que aprova a estrutura regimental ou o estatuto do órgão ou da entidade, motivo pelo qual não cabe o uso da expressão “exercer outras competências que lhe forem cometidas”.
+   competências são estabelecidas pelo decreto que aprova a estrutura regimental do órgão, motivo pelo qual não cabe o uso da expressão “exercer outras competências que lhe forem cometidas”.
    Caso o órgão ou entidade julgue necessário atribuir tais atividades a unidades ou subunidades administrativas, isso poderá ser feito no regimento interno. 
 
 .. hint::
@@ -813,7 +813,7 @@ e Departamentos:
  
 #. Não é desejável a estruturação de gabinete em Diretorias e Departamentos.
  
-#. Às Diretorias e Departamentos podem se subordinar todas as unidades e cargos
+#. Às Diretorias e aos Departamentos podem se subordinar todas as unidades e cargos
    e funções de nível inferior àquele atribuído ao Diretor, à exceção das unidades
    reservadas à assessoria direta e imediata ao Ministro. Devem ser evitadas Diretorias e Departamentos formados por apenas uma Coordenação-Geral, salvo quando sua natureza justificar uma estrutura formada por Gerentes de Projeto.
  
@@ -828,17 +828,14 @@ Unidades obrigatórias: não
  
 Nomenclatura permite complemento: não
  
-Sobre o titular:
+Sobre o titular: `nomenclaturas <:ref:denominacoes adotadas_>` para os CCE ou FCE de categoria 1, Código 1.14 ou menor. 
  
 .. TODO: inserir referência à tabela de titulares por tipo de unidade
  
 Sobre as competências: não constam em Decreto, mas precisam ser inseridas no
 sistema informatizado Siorg.
  
-Regra específica sobre a estrutura de cargos e funções que compõem as demais
-unidades: devem ser agrupados, abaixo da Diretoria ou Departamento superior,
-conforme regras associadas ao Quadro demonstrativo dos cargos em comissão e das
-funções comissionadas.
+Regra específica sobre a estrutura de cargos e funções que compõem essas unidades: devem ser agrupados, abaixo da Diretoria ou Departamento superior, conforme regras associadas ao Quadro demonstrativo dos cargos em comissão e das funções comissionadas.
  
 Unidades descentralizadas
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -851,7 +848,7 @@ Unidades obrigatórias: não
 Sobre a nomenclatura da unidade: definida conforme atuação. São exemplos comuns
 as Superintendências Federais.
  
-Sobre o titular: nomenclatura definida conforme a da unidade (por exemplo,
+Sobre o titular: nomenclatura definida conforme unidade (por exemplo,
 Superintendente). O titular será ocupante de CCE ou FCE de categoria 1, com nível
 definido pelo órgão, conforme volume de processos e pessoas alocadas, e nível de
 complexidade.
@@ -864,7 +861,7 @@ complexidade.
    "Diretoria" e "Coordenação-Geral".
  
 Sobre as competências: necessariamente descritas em Decreto, em seção própria,
-independentemente da subordinação. A subordinação deve constar no caput do artigo
+independentemente da subordinação. A subordinação deve constar no *caput* do artigo
 específico.
  
 .. admonition:: Exemplo
