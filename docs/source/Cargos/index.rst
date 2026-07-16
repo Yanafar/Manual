@@ -437,8 +437,8 @@ As Funções Comissionadas do Banco Central – FCBC foram criadas pela `Lei nº
 
 Seus quantitativos também poderão ser alterados por ato do Presidente do Banco Central do Brasil, desde que não impliquem aumento de despesa.
 
-Cargos em comissão e funções de confiança temporários
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Cargos em comissão e funções de confiança alocados temporariamente ao órgão ou entidade
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 É possível o remanejamento, por Decreto, de cargos em comissão e de funções de confiança da Secretaria de Gestão e Inovação, do Ministério da Gestão e da Inovação em Serviços Públicos, para órgãos e entidades em caráter temporário, até uma data máxima fixada no mesmo Decreto e com objetivo definido. Nesses casos, deverão estar explícitos no Decreto:
   * quais os cargos e/ou funções remanejados temporariamente;
