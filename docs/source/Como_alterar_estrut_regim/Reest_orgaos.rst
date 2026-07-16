@@ -404,7 +404,7 @@ com a próxima unidade descrita no art. 2º do Anexo I.
 
     #. Sugere-se que a data de vigência (*vacatio legis*) do decreto que aprovar ou alterar a estrutura regimental seja de, no mínimo, 21 dias após sua publicação, a fim de que haja tempo hábil para o detalhamento, no sistema informatizado do Siorg, de todas as unidades administrativas constantes do quadro demonstrativo de cargos e funções. 
     
-     Esses são os prazos estabelecidos pelo `Decreto nº 9.739, de 2019 <decreto-9739_>`_:
+     Esses são os prazos estabelecidos pelo `Decreto nº 9.739, de 2019 <_decreto-9739_>`_:
 
      * o dia útil anterior à data de entrada em vigor do decreto; ou
      * vinte dias após a data de publicação do decreto, na hipótese de a vacatio legis do decreto ser superior a esse prazo.
