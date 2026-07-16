@@ -461,3 +461,15 @@ Cargos em comissão e funções de confiança temporários
    II - serão restituídos à Secretaria de Gestão e Inovação em (data completa de restituição), quando seus ocupantes ficarão automaticamente exonerados ou dispensados.
 
    § 2º Os cargos referidos no caput não integrarão a Estrutura Regimental (ou Estatuto) do (órgão ou entidade) e os atos de nomeação ou designação relacionados terão seu caráter de transitoriedade expressos, mediante remissão ao caput do art. 1º.
+
+
+
+.. ---------------------------------------------------------------------------
+.. Referências externas — legislação
+.. ---------------------------------------------------------------------------
+
+
+.. _lei-8168: https://www.planalto.gov.br/ccivil_03/leis/L8168.htm
+.. _lei-7596: https://www.planalto.gov.br/ccivil_03/leis/L7596.htm
+.. _lei-11784: https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11784.htm
+.. _lei-12677: https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12677.htm
