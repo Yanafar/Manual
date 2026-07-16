@@ -404,7 +404,7 @@ com a próxima unidade descrita no art. 2º do Anexo I.
 
     #. Sugere-se que a data de vigência (*vacatio legis*) do decreto que aprovar ou alterar a estrutura regimental seja de, no mínimo, 21 dias após sua publicação, a fim de que haja tempo hábil para o detalhamento, no sistema informatizado do Siorg, de todas as unidades administrativas constantes do quadro demonstrativo de cargos e funções. 
     
-     Esses são os prazos estabelecidos pelo `Decreto nº 9.739, de 2019 <_decreto-9739_>`_:
+     Esses são os prazos estabelecidos pelo `art. 14 do Decreto nº 9.739, de 2019 <decreto-9739-art14_>`_:
 
      * o dia útil anterior à data de entrada em vigor do decreto; ou
      * vinte dias após a data de publicação do decreto, na hipótese de a vacatio legis do decreto ser superior a esse prazo.
@@ -464,7 +464,7 @@ nessas tabelas devem ser idênticas àquelas listadas no corpo do decreto.
  
    Exemplo de tabela de remanejamento e o correspondente texto no corpo do decreto
  
-A planilha disponibilizada pelo Departamento de Modelos Organizacionais produz
+A :ref:`planilha` disponibilizada pela Diretoria de Modelos Organizacionais produz
 esses quadros automaticamente a partir do novo quadro demonstrativo informado
 pelo órgão.
  
@@ -483,7 +483,7 @@ Existem dois cenários para a geração dessa tabela:
  
 #. **A proposta parte dos cargos e funções já disponíveis no órgão ou entidade**
    — os cargos e funções que deixam de existir têm custo total igual ou maior ao
-   dos novos. Nesse caso, a planilha disponibilizada pelo Departamento de Modelos
+   dos novos. Nesse caso, a :ref:`planilha` disponibilizada pela Diretoria de Modelos
    Organizacionais produz o quadro automaticamente a partir do novo quadro
    demonstrativo informado pelo órgão.
 
@@ -1065,7 +1065,6 @@ Outras regras a serem observadas
   e fundações), para agilizar a tomada de decisão e reduzir a necessidade de
   ajustes no curto prazo nos níveis mais baixos. Esta diretriz não se aplica às
   unidades descentralizadas nem às Funções Gratificadas.
- 
   .. TODO: inserir :numref: das figuras sobre níveis hierárquicos máximos
  
 * Evitar a existência ou criação de unidades administrativas com menos de sete
@@ -1077,6 +1076,7 @@ Outras regras a serem observadas
 .. Referências externas — legislação
 .. ---------------------------------------------------------------------------
  
+.. _decreto-9739-art14: https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/decreto/D9739.htm#Art14
 .. _lei-14600: https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/L14600.htm
 .. _lei-14600-art50: https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/L14600.htm#Art50
 .. _decreto-10829: https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/decreto/D10829.htm

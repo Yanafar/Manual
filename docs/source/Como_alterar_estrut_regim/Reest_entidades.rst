@@ -500,7 +500,7 @@ com a próxima unidade descrita no art. 2º do Anexo I.
    
     #. Sugere-se que a data de vigência (vacatio legis) do decreto que aprovar ou alterar a estrutura regimental seja de, no mínimo, 21 dias após sua publicação, a fim de que haja tempo hábil para o detalhamento, no sistema informatizado do Siorg, de todas as unidades administrativas constantes do quadro demonstrativo de cargos e funções. 
      
-     São prazos estabelecidos pelo `Decreto nº 9.739,de 2019 <decreto-9739-art14_>`_:
+     São prazos estabelecidos pelo `art. 14 do Decreto nº 9.739, de 2019 <decreto-9739-art14_>`_:
 
      * o dia útil anterior à data de entrada em vigor do decreto; ou
      * vinte dias após a data de publicação do decreto, na hipótese de a vacatio legis do decreto ser superior a esse prazo.
@@ -525,7 +525,7 @@ mostrando seu somatório.
  
    Exemplo de quadro resumo de custos
  
-A planilha disponibilizada pelo Departamento de Modelos Organizacionais produz
+A :ref:`planilha` disponibilizada pela Diretoria de Modelos Organizacionais produz
 esse quadro automaticamente a partir do novo quadro demonstrativo informado
 pelo órgão.
  
@@ -578,7 +578,7 @@ Existem dois cenários para a geração dessa tabela:
  
 #. **A proposta parte dos cargos e funções já disponíveis no órgão ou entidade**
    — os cargos e funções que deixam de existir têm custo total igual ou maior ao
-   dos novos. Nesse caso, a planilha disponibilizada pelo Departamento de Modelos
+   dos novos. Nesse caso, a :ref:`planilha` disponibilizada pela Diretoria de Modelos
    Organizacionais produz o quadro automaticamente a partir do novo quadro
    demonstrativo informado pelo órgão.
 
@@ -1061,13 +1061,15 @@ deverá observar o seguinte:
      `Lei nº 13.848, de 25 de junho de 2019 <lei-13848_>`_.
  
  
+.. _tranformacao-cargos-ifes:
+
 Particularidades da estrutura regimental das Instituições Federais de Ensino
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
  
 As Instituições Federais de Ensino englobam as Instituições Federais de Ensino
 Superior — Ifes (autarquias ou fundações públicas), os Institutos Federais de
 Educação, Ciência e Tecnologia — IFET (autarquias) e, por equiparação a esses
-últimos: o Instituto Nacional de Educação de Surdos e o Instituto Benjamin Constant (ambos unidades organizacionais do Ministério da Educação), as Escolas Técnicas e Colégios de Aplicação vinculados às Ifes, os centros federais de educação tecnológica e o Colégio Pedro II.
+últimos: o Instituto Nacional de Educação de Surdos e o Instituto Benjamin Constant (ambos unidades organizacionais do Ministério da Educação), as Escolas Técnicas e Colégios de Aplicação vinculados às Ifes, os centros federais de educação tecnológica, o Colégio Pedro II e as Instituições Federais de Ensino Militar.
  
 .. seealso::
  
@@ -1076,7 +1078,7 @@ Educação, Ciência e Tecnologia — IFET (autarquias) e, por equiparação a e
    organizacional. Essa lei deve ser consultada quanto aos critérios para nomeação
    de seus dirigentes. De forma geral, é relevante apontar que cada IFET:
  
-   * é organizado em estrutura multicampi;
+   * é organizado em estrutura *multicampi*;
  
    * é administrado por dois órgãos superiores, ambos presididos pelo Reitor: o
      Colégio de Dirigentes e o Conselho Superior. Cabe ao estatuto dispor sobre
@@ -1088,11 +1090,11 @@ Educação, Ciência e Tecnologia — IFET (autarquias) e, por equiparação a e
  
    * seus campi são dirigidos por Diretores-Gerais, nomeados pelo Reitor.
  
-   As Ifes são criadas por leis específicas, onde constam informações sobre a sede,
+   Já as Ifes são criadas por leis específicas, onde constam informações sobre a sede,
    sua organização, finalidade, patrimônio e regras de transição.
  
 Todas as Instituições Federais de Ensino dispõem de cargos e funções específicos,
-desenhados para uma adequada gestão de organizações voltadas ao ensino (veja :ref:`cargos-ifes`).
+desenhados para uma adequada gestão de organizações voltadas ao ensino (veja :ref:`cargos-ifes`), criados no âmbito do Ministério da Educação, a quem cabe definir a distribuição entre as instituições federais de ensino.
  
 .. warning::
  
@@ -1104,51 +1106,13 @@ desenhados para uma adequada gestão de organizações voltadas ao ensino (veja 
    Ministério da Educação, a quem compete analisar as demandas das instituições
    federais de ensino. Se necessárias transformações, cabe ao MEC instruir o
    processo necessário à edição de decreto presidencial e submetê-lo ao MGI, para posterior encaminhamento à Casa Civil, garantindo que o ato ocorra sem aumento de despesa.
- 
+
+   `Aqui <planilha-ifes_>`_ é possível baixar planilha elaborada pela Diretoria de Modelos Organizacionais, capaz de informar se a transformação proposta ocorre sem impacto orçamentário, facilitando eventuais ajustes antes de sua submissão à análise do MGI.
+
    .. TODO: inserir link para download do modelo de decreto (substituir
       "(download de modelo)")
  
-   .. TODO: inserir link para planilha de cálculo de impacto orçamentário
-      (substituir "Aqui, é possível baixar planilha...")
  
-Cargos e funções das instituições federais de ensino
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
- 
-As instituições federais de ensino se estruturam a partir dos Cargos de Direção
-— CD, divididos em quatro níveis, das Funções Gratificadas, divididas em
-nove níveis, e das Funções Comissionadas de Coordenação de Curso — FCC.
- 
-Todos esses cargos e funções são criados no âmbito do Ministério da Educação,
-a quem cabe definir a distribuição entre as instituições federais de ensino.
- 
-Cargos de Direção (CD)
-""""""""""""""""""""""
- 
-Foram instituídos pela `Lei nº 8.168, de 16 de janeiro de 1991 <lei-8168_>`_.
-Os Reitores ocupam, necessariamente, o CD-I.
- 
-Funções Gratificadas (FG)
-""""""""""""""""""""""""""
- 
-Foram instituídas pela `Lei nº 8.168, de 16 de janeiro de 1991 <lei-8168_>`_.
- 
-Funções Comissionadas de Coordenação de Curso (FCC)
-""""""""""""""""""""""""""""""""""""""""""""""""""""
- 
-Foram instituídas pelo `art. 7º da Lei nº 12.677, de 25 de junho de 2012 <lei-12677_>`_.
- 
-Devem ser exercidas, exclusivamente, por servidores que desempenhem atividade de
-coordenação acadêmica de cursos técnicos, tecnológicos, de graduação e de
-pós-graduação *stricto sensu*, regularmente instituídos no âmbito das instituições
-federais de ensino.
- 
-Esses servidores devem ser, necessariamente, titulares de cargos da Carreira do
-Magistério Superior de que trata a `Lei nº 7.596, de 10 de abril de 1987 <lei-7596_>`_,
-e Professores do Magistério do Ensino Básico, Técnico e Tecnológico, integrantes
-do Plano de Carreira e Cargos de Magistério do Ensino Básico, Técnico e
-Tecnológico, de que trata a `Lei nº 11.784, de 22 de setembro de 2008 <lei-11784_>`_.
- 
-
 
 
 .. ---------------------------------------------------------------------------
@@ -1183,3 +1147,4 @@ Tecnológico, de que trata a `Lei nº 11.784, de 22 de setembro de 2008 <lei-117
 .. _lei-14204: https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/L14204.htm
 .. _lei-14204-art6: https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/L14204.htm#Art6
 .. _lei-14204-art7: https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/L14204.htm#Art7
+.. _planilha-ifes: https://www.gov.br/gestao/pt-br/assuntos/gestaoeinovacao/modelos-organizacionais/estruturas-organizacionais/arquivos/manual-online/2026_planilha-transformacoes-e-impacto_ifes.xlsx
