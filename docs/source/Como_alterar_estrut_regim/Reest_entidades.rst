@@ -246,7 +246,7 @@ O Gabinete da autoridade máxima constitui-se como unidade obrigatória das enti
 Regras sobre a redação de competências
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-O detalhamento das competências, no Decreto, não pode extrapolar o escopo de atuação fixado na Lei para o órgão ou entidade . O objetivo é apenas detalhá-las e organizar a sua distribuição entre as Secretarias ou Departamentos, de forma harmoniosa e clara, visando a implementação da estratégia organizacional. É relevante, ainda, garantir que não haja conflitos de competência internos, entre as diversas unidades administrativas, ou externos, em relação a outros órgãos ou entidades.
+O detalhamento das competências, no Decreto, não pode extrapolar o escopo de atuação fixado na Lei para a entidade. O objetivo é apenas detalhá-las e organizar a sua distribuição entre as Diretorias ou Departamentos, de forma harmoniosa e clara, visando a implementação da estratégia organizacional. É relevante, ainda, garantir que não haja conflitos de competência internos, entre as diversas unidades administrativas, ou externos, em relação a outros órgãos ou entidades.
 
 .. note::
  
@@ -258,7 +258,7 @@ Também é importante dar preferência a construções simples e diretas, compos
 
 * expressões ou locuções verbais;
 
- **Exemplos:**
+ **Exemplos de expressões a serem evitadas:**
   * “tratar de assuntos relativos a ...”;
   * “realizar a coordenação de políticas...” ou “realizar gestões junto a ...”;
   * “atuar para promover a articulação e a orientação” ou ainda “promover a articulação”;
@@ -292,8 +292,8 @@ Também é importante dar preferência a construções simples e diretas, compos
    * exercer outras atribuições determinadas pelo Ministro ou Secretário.
    
    Por ser bastante comum, o último exemplo acima merece um comentário adicional. As 
-   competências são estabelecidas pelo decreto que aprova a estrutura regimental ou o estatuto do órgão ou da entidade, motivo pelo qual não cabe o uso da expressão “exercer outras competências que lhe forem cometidas”.
-   Caso o órgão ou entidade julgue necessário atribuir tais atividades a unidades ou subunidades administrativas, isso poderá ser feito no regimento interno. 
+   competências são estabelecidas pelo decreto que aprova a estrutura regimental ou o estatuto da entidade, motivo pelo qual não cabe o uso da expressão “exercer outras competências que lhe forem cometidas”.
+   Caso a entidade julgue necessário atribuir tais atividades a unidades ou subunidades administrativas, isso poderá ser feito no regimento interno. 
 
 .. hint::
  
@@ -403,7 +403,7 @@ Anexo IIa: Quadro demonstrativo dos cargos em comissão e das funções comissio
  
 O quadro demonstrativo de cargos em comissão e das funções comissionadas é um resumo do organograma da entidade descrito no art. 2º do Anexo I, representado por uma tabela. A fim de facilitar as consultas aos decretos vigentes, convencionou-se substituir esse quadro por inteiro sempre que sofre alterações.
  
-Essa tabela é formada por quatro colunas e traz todos os cargos em comissão e as funções comissionadas de que o órgão dispõe, representados por códigos, conforme mostra a :numref:`fig-anexo-ii-a2`.
+Essa tabela é formada por quatro colunas e traz todos os cargos em comissão e as funções comissionadas de que a entidade dispõe, representados por códigos, conforme mostra a :numref:`fig-anexo-ii-a2`.
  
 .. _fig-anexo-ii-a2:
 .. figure:: ../_static/images/Fig3a_anexoiia.png
@@ -438,7 +438,7 @@ Cada código possui uma ou mais denominações específicas, conforme a
    .. TODO: inserir :ref: ao capítulo sobre tipos, categorias e níveis quando
       rótulo definido
  
-Os cargos e funções existentes no órgão são agrupados conforme regras dispostas
+Os cargos e funções existentes na entidade são agrupados conforme regras dispostas
 no `Decreto nº 10.829, de 5 de outubro de 2021 <decreto-10829_>`_, que já
 orientou o desenho do Anexo I: se a unidade consta no art. 2º, há competência
 descrita e a unidade precisa ser nomeada no quadro demonstrativo. Essa unidade
@@ -502,8 +502,7 @@ Demais tabelas que compõem um decreto de estrutura regimental
 Anexo IIb: Quadro resumo de custos
 ++++++++++++++++++++++++++++++++++
  
-O Quadro resumo de custos informa o tamanho da estrutura organizacional de um
-órgão ou entidade em CCE-unitários (:ref:`cce-unitario`).
+O Quadro resumo de custos informa o tamanho da estrutura organizacional de uma entidade, em CCE-unitários (:ref:`cce-unitario`).
  
 Quando a estrutura está sendo alterada, esse quadro demonstra a situação nova em
 relação à situação atual, agregando os cargos e funções de mesmo código e
@@ -518,7 +517,7 @@ mostrando seu somatório.
  
 A :ref:`planilha` disponibilizada pela Diretoria de Modelos Organizacionais produz
 esse quadro automaticamente a partir do novo quadro demonstrativo informado
-pelo órgão.
+pela entidade.
  
 .. warning::
  
@@ -537,7 +536,7 @@ Anexos IIIa e IIIb: Remanejamentos de CCE e FCE
    :ref:`reserva_tec`.
  
 As tabelas constantes nos Anexos III a e III b trazem, respectivamente, a lista
-dos cargos e funções remanejados do órgão para a Seges e da Seges para o órgão.
+dos cargos e funções remanejados da entidade para a Seges e da Seges para a entidade.
  
 Assim como nos demais anexos, essas tabelas consideram a estrutura publicada no
 decreto vigente e contêm os custos de cada remanejamento. As informações constantes
@@ -552,7 +551,7 @@ nessas tabelas devem ser idênticas àquelas listadas no corpo do decreto.
  
 A :ref:`planilha` disponibilizada pelo Diretoria de Modelos Organizacionais produz
 esses quadros automaticamente a partir do novo quadro demonstrativo informado
-pelo órgão.
+pela entidade.
  
  
 Anexo IV: Transformações de CCE e FCE
@@ -567,11 +566,11 @@ ou negativa.
  
 Existem dois cenários para a geração dessa tabela:
  
-#. **A proposta parte dos cargos e funções já disponíveis no órgão ou entidade**
+#. **A proposta parte dos cargos e funções já disponíveis na entidade**
    — os cargos e funções que deixam de existir têm custo total igual ou maior ao
    dos novos. Nesse caso, a :ref:`planilha` disponibilizada pela Diretoria de Modelos
    Organizacionais produz o quadro automaticamente a partir do novo quadro
-   demonstrativo informado pelo órgão.
+   demonstrativo informado pela entidade.
 
    No exemplo ilustrado, foram retirados da reserva técnica dois CCE de nível 15,
    resultando na tabela apresentada na :numref:`sem-impacto2`
@@ -628,7 +627,7 @@ Unidades administrativas da administração indireta e suas regras específica
  
 As regras a seguir focam na estruturação hierárquica das unidades, que são chefiadas
 por ocupantes de cargos e funções da categoria 1. No entanto, outros tipos de cargos
-e funções (categorias 2, 3 e 4), que não são visíveis no organograma do órgão, podem
+e funções (categorias 2, 3 e 4), que não são visíveis no organograma da entidade, podem
 compor a estrutura de cada unidade.
  
 A regra básica para definir se um cargo ou função pode ser inserido em dada unidade
@@ -707,7 +706,7 @@ São Assessorias típicas:
 Órgãos seccionais
 +++++++++++++++++
  
-São aquelas unidades que executam atividades comuns a todos os órgãos, sob
+São aquelas unidades que executam atividades comuns a todos as entidades, sob
 coordenação de um órgão central, formando um sistema estruturador.
  
 Ouvidoria
@@ -740,7 +739,7 @@ definidas pelo
    federal (`art. 6º do Decreto nº 9.492, de 5 de setembro de 2018 <decreto-9492-art6_>`_).
  
    Assim, a nomeação, a designação, a exoneração ou a dispensa dos titulares dessas
-   unidades deve ser submetida, pelo dirigente máximo do órgão ou da entidade, à
+   unidades deve ser submetida, pelo dirigente máximo da entidade, à
    aprovação da Controladoria-Geral da União.
  
 Corregedoria
@@ -890,7 +889,7 @@ Unidades obrigatórias: não
  
 Nomenclatura permite complemento: não
  
-Sobre o titular: conforme :ref:`denominacoes`
+Sobre o titular: conforme :ref:`denominacoes`, Código 1.14 ou menor. 
 
 Sobre as competências: não constam em Decreto, mas precisam ser inseridas no
 sistema informatizado Siorg.
@@ -914,7 +913,7 @@ as Superintendências Regionais.
  
 Sobre o titular: nomenclatura definida conforme a da unidade (por exemplo,
 Superintendente). O titular será ocupante de CCE ou FCE de categoria 1, com nível
-definido pelo órgão, conforme volume de processos e pessoas alocadas, e nível de
+definido pela entidade, conforme volume de processos e pessoas alocadas, e nível de
 complexidade.
  
 .. warning::
@@ -965,7 +964,7 @@ diferenciadas. Seus representantes podem ser originários do setor público, do
 setor privado ou da sociedade civil, segundo a natureza da representação. São
 conhecidos pelos nomes de Conselhos, Comitês, Câmaras, Comissões, entre outros.
  
-Alguns órgãos ou entidades do Poder Executivo federal dispõem, dentro de seu
+Algumas entidades do Poder Executivo federal dispõem, dentro de seu
 sistema de governança organizacional, de órgãos colegiados de caráter deliberativo,
 consultivo ou judicante, criados com o propósito de contribuir para o processo
 decisório institucional de condução de determinada política pública. Esses
