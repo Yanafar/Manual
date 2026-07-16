@@ -468,7 +468,7 @@ Cargos em comissão e funções de confiança temporários
 .. Referências externas — legislação
 .. ---------------------------------------------------------------------------
 
-
+.. _decreto-10829: https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/decreto/D10829.htm
 .. _lei-8168: https://www.planalto.gov.br/ccivil_03/leis/L8168.htm
 .. _lei-7596: https://www.planalto.gov.br/ccivil_03/leis/L7596.htm
 .. _lei-11784: https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11784.htm
