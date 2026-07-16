@@ -889,7 +889,7 @@ Unidades obrigatórias: não
  
 Nomenclatura permite complemento: não
  
-Sobre o titular: conforme :ref:`denominacoes`, Código 1.14 ou menor. 
+Sobre o titular: conforme :ref:`denominacoesCCEFCE`, para Código 1.14 ou menor.
 
 Sobre as competências: não constam em Decreto, mas precisam ser inseridas no
 sistema informatizado Siorg.
