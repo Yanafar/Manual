@@ -184,24 +184,15 @@ Capítulo II — DA ESTRUTURA ORGANIZACIONAL
 Por padrão, abrange somente um artigo, que traz a organização interna da entidade
 (uma descrição de seu organograma básico), dividida, geralmente, da seguinte forma:
  
-* **I —** órgãos de assistência direta e imediata à autoridade máxima da entidade:
-  engloba todas as unidades de assessoria direta, começando pelo Gabinete da
-  autoridade máxima e seguindo com suas Assessorias (vide :ref:`assistencia-entidade`).
+I — órgãos de assistência direta e imediata à autoridade máxima da entidade: engloba todas as unidades de assessoria direta, começando pelo Gabinete da autoridade máxima e seguindo com suas Assessorias (vide :ref:`assistencia-entidade`).
  
-* **II —** órgãos seccionais: unidades que atuam como suporte administrativo
-  setorial. São exemplos de órgãos seccionais a Ouvidoria, a Corregedoria, a
-  Auditoria Interna, a Procuradoria Federal e a Diretoria responsável pelas
-  atividades de planejamento, administração, gestão, finanças, logística,
-  governança, inovação e tecnologia da informação.
+II — órgãos seccionais: unidades que atuam como suporte administrativo setorial. São exemplos de órgãos seccionais a Ouvidoria, a Corregedoria, a Auditoria Interna, a Procuradoria Federal e a Diretoria responsável pelas atividades de planejamento, administração, gestão, finanças, logística, governança, inovação e tecnologia da informação.
  
-* **III —** órgãos específicos singulares: engloba as unidades finalísticas do
-  órgão, ou seja, as Diretorias e Departamentos.
+III —órgãos específicos singulares: engloba as unidades finalísticas do órgão, ou seja, as Diretorias e Departamentos.
  
-* **IV —** unidades descentralizadas (se houver): engloba todas as unidades
-  situadas em município distinto ao da sede do órgão.
+IV — unidades descentralizadas (se houver): engloba todas as unidades situadas em município distinto ao da sede do órgão.
  
-* **V —** órgãos colegiados (se houver): engloba colegiados criados por lei, sob
-  responsabilidade do órgão. 
+V — órgãos colegiados (se houver): engloba colegiados criados por lei, sob responsabilidade do órgão. 
 
 Exemplo simplificado:
  
