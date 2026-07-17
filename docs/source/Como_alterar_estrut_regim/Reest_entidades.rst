@@ -978,7 +978,8 @@ Normalmente, a presidência do conselho é atribuição do cargo de dirigente ma
 São exemplos: Comitê Gestor, Câmara Recursal, Conselho Técnico-Científico,
 Conselho Superior, Conselho Deliberativo, Conselho Consultivo.
  
- 
+.. _particularidades_agencias:
+
 Particularidades da estrutura regimental das Agências Reguladoras
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
  
@@ -992,16 +993,24 @@ Consequentemente, possuem significativa flexibilidade para organizar sua estrutu
 regimental e não precisam de um novo decreto presidencial quando a alteram,
 contanto que não extrapolem o custo de sua atual estrutura. Assim, a estrutura
 mais atualizada de uma agência reguladora é aquela que consta em seu regimento
-interno — aprovado por Resolução de sua Diretoria Colegiada e cadastrado no sistema informatizado do Siorg —, razão pela qual
-o decreto que aprova sua estrutura traz apenas as competências e finalidades da
+interno — aprovado por Resolução de sua Diretoria Colegiada e cadastrado no sistema informatizado do Siorg —, razão pela qual o decreto que aprova sua estrutura traz apenas as competências e finalidades da
 agência e de suas unidades obrigatórias, as regras de funcionamento de seus
-colegiados e as atribuições de seus dirigentes.
+colegiados e as atribuições de seus dirigentes. 
  
 Se a agência visar um aumento de sua estrutura de cargos e funções, o pedido segue
 o mesmo rito das demais autarquias.
+
+Entretanto, o Quadro demonstrativo de cargos e funções que compõe o Anexo IIa dessas entidades tem particularidades: descreve-se apenas as nomenclaturas das unidades obrigatórias e de seus titulares, mantendo em branco as demais unidades e as denominações doe seus titulares. Objetiva-se, assim, oferecer autonomia e flexibilidade à Agência reguladora para que utilize as referências, termos e denominações compatíveis com suas necessidades organizacionais e com as especificidades de sua atuação institucional. Tal compreensão revela-se compatível com a prerrogativa já exercida por essas entidades em relação aos seus cargos de uso exclusivo e preserva a autonomia que lhes foi conferida pela legislação.
+
+.. warning::
+
+   Apesar da flexibilidade para adotar as nomeclaturas mais adequadas a suas realidades, descolando-se da tabela de referência constante do Anexo II do Decreto nº 10.829, de 2021, as Agências reguladoras devem obedecer o disposto nos incisos I e III de seu `art. 4º <decreto-10829-art4_>`_: 
+
+   * o titular da unidade administrativa será o único ocupante de CCE ou FCE de maior nível;
+
+   * os CCE ou as FCE de mesma denominação não poderão ter relação de subordinação entre si.
  
-Em ambas as situações, a alteração da estrutura regimental, por definição legal,
-deverá observar o seguinte:
+Toda alteração da estrutura regimental, por definição legal, deverá observar o seguinte:
  
 * Terão como órgão máximo o Conselho Diretor ou a Diretoria Colegiada, composto
   por até 5 (cinco) membros, sendo até 4 (quatro) Conselheiros ou Diretores e
@@ -1104,8 +1113,7 @@ desenhados para uma adequada gestão de organizações voltadas ao ensino (veja 
 
    Lembre-se: seu Anexo deve seguir as mesmas orientações da elaboração do :ref:`transformacoes`.  
 
-   .. TODO: inserir link para download do modelo de decreto (substituir
-      "(download de modelo)")
+
  
  
 
@@ -1116,6 +1124,7 @@ desenhados para uma adequada gestão de organizações voltadas ao ensino (veja 
  
 .. _decreto-9739-art14: https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/decreto/D9739.htm#Art14
 .. _decreto-10829: https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/decreto/D10829.htm
+.. _decreto-10829-art4: https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/decreto/D10829.htm#Art4
 .. _decreto-12002: https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/decreto/D12002.htm
 .. _decreto-11232: https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/decreto/D11232.htm
 .. _decreto-12586: https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/decreto/D12586.htm

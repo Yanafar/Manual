@@ -418,7 +418,9 @@ Por fim, conforme o § 2º do art. 7º da `Lei nº 12.677, de 25 de junho de 201
 Cargos comissionados das agências reguladoras
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-As agências reguladoras possuem Cargos em Comissão de Direção – CD, de Gerência Executiva – CGE, de Assessoria – CA e de Assistência – CAS, e os Cargos em Comissão Técnicos – CCT, conforme estabelecido na `Lei nº 9.986, de 18 de julho de 2000 <https://www.planalto.gov.br/ccivil_03/leis/l9986.htm>`_, mas podem transformar seus cargos e funções em CCE e FCE, se assim optarem até 31 de março de 2026. Essas autarquias especiais possuem autonomia para alterar seus respectivos quantitativos de cargos e distribuí-los, no âmbito de cada grupo, sem aumento de despesa (art. 14 da `Lei nº 9.986, de 18 de julho de 2000 <https://www.planalto.gov.br/ccivil_03/leis/l9986.htm>`_), independentemente da tipologia de cargos e funções adotada.
+As agências reguladoras possuem Cargos em Comissão de Direção – CD, de Gerência Executiva – CGE, de Assessoria – CA e de Assistência – CAS, e os Cargos em Comissão Técnicos – CCT, conforme estabelecido na `Lei nº 9.986, de 18 de julho de 2000 <https://www.planalto.gov.br/ccivil_03/leis/l9986.htm>`_, mas podem transformar seus cargos e funções em CCE e FCE, se assim optaram até 31 de março de 2026 (para saber mais sobre o que muda para as agências, nesse caso, consulte :ref:`particularidades_agencias`). 
+
+Essas autarquias especiais possuem autonomia para alterar seus respectivos quantitativos de cargos e distribuí-los, no âmbito de cada grupo, sem aumento de despesa (art. 14 da `Lei nº 9.986, de 18 de julho de 2000 <https://www.planalto.gov.br/ccivil_03/leis/l9986.htm>`_), independentemente da tipologia de cargos e funções adotada.
 
 De acordo com a `Lei nº 9.986, de 18 de julho de 2000 <https://www.planalto.gov.br/ccivil_03/leis/l9986.htm>`_, e a `Lei nº 14.204, de 2021 <https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14204.htm>`_:
   * os Cargos Comissionados de Gerência Executiva, de Assessoria e de Assistência são de livre nomeação e exoneração da instância de deliberação máxima da Agência;
@@ -443,7 +445,7 @@ As Funções Comissionadas do Banco Central – FCBC foram criadas pela `Lei nº
 
 Seus quantitativos também poderão ser alterados por ato do Presidente do Banco Central do Brasil, desde que não impliquem aumento de despesa.
 
-Cargos em comissão e funções de confiança alocados temporariamente ao órgão ou entidade
+Cargos em comissão e funções de confiança alocados temporariamente em órgão ou entidade
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 É possível o remanejamento, por Decreto, de cargos em comissão e de funções de confiança da Secretaria de Gestão e Inovação, do Ministério da Gestão e da Inovação em Serviços Públicos, para órgãos e entidades em caráter temporário, até uma data máxima fixada no mesmo Decreto e com objetivo definido. Nesses casos, deverão estar explícitos no Decreto:
