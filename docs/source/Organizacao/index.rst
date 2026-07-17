@@ -167,7 +167,7 @@ serviços públicos ou à exploração de atividade econômica, nos termos da
  
 Sua criação depende de autorização legislativa e é efetivada por decreto do Poder
 Executivo, por razões de segurança nacional ou relevante interesse coletivo. A empresa
-estatal pode assumir duas configurações jurídicas:
+estatal pode assumir duas configurações jurídicas: sociedade de economia mista ou empresa pública.
  
 Sociedade de economia mista
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^

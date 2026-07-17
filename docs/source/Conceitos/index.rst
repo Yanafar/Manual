@@ -228,11 +228,12 @@ controle e eficiência na implementação das políticas públicas.
    * **Sistema de Controle Interno:** Auditoria e fiscalização dos gastos.
    * **Sistema de Correição:** Apuração de irregularidades e aplicação de sanções.
    * **Sistema de Ouvidorias:** Canal de comunicação e participação do cidadão.
+   * **Sigpar (Gestão de Parcerias da União):** Instituído pelo `Decreto nº 11.271, de 5 de dezembro de 2022 <decreto-11271_>`_, com vistas a organizar as atividades de planejamento, coordenação, orientação e gestão das parcerias para implementação de políticas públicas de forma descentralizada, no âmbito dos órgãos e das entidades da administração pública federal integrantes dos Orçamentos Fiscal e da Seguridade Social da União.
    * **SITAI (Integridade, Transparência e Acesso à Informação):** Sistema unificado
      instituído pelo `Decreto nº 11.529, de 16 de maio de 2023 <decreto-11529_>`_
      para fortalecer a ética, a transparência e o cumprimento da Lei de Acesso à
      Informação.
-   * **SISEST (Coordenação da Governança e da Supervisão Ministerial das Empresas Estatais Federais):** instituído pelo `Decreto nº 12.302, de 9 de dezembro de 2024 <decreto-12302_>`_, com a finalidade de organizar as atividades de supervisão ministerial e de coordenação da governança das empresas estatais federais no âmbito do Poder Executivo federal.
+   * **SISEST (Coordenação da Governança e da Supervisão Ministerial das Empresas Estatais Federais):** Instituído pelo `Decreto nº 12.302, de 9 de dezembro de 2024 <decreto-12302_>`_, com a finalidade de organizar as atividades de supervisão ministerial e de coordenação da governança das empresas estatais federais no âmbito do Poder Executivo federal.
  
 A diretriz normativa para os Sistemas Estruturadores é o art. 30
 `Decreto-Lei nº 200, de 25 de fevereiro de 1967 <dl-200_>`_.
@@ -520,3 +521,4 @@ Classificação doutrinária conforme :cite:`di_pietro_2023` e
 .. _decreto-11529: https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/decreto/D11529.htm
 .. _decreto-12904: https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/decreto/D12904.htm
 .. _decreto-12302: https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/decreto/d12302.htm
+.. _decreto-11271: https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/decreto/d11271.htm
