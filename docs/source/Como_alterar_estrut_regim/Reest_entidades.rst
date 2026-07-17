@@ -1000,7 +1000,7 @@ colegiados e as atribuições de seus dirigentes.
 Se a agência visar um aumento de sua estrutura de cargos e funções, o pedido segue
 o mesmo rito das demais autarquias.
 
-Entretanto, o Quadro demonstrativo de cargos e funções que compõe o Anexo IIa dessas entidades tem particularidades: descreve-se apenas as nomenclaturas das unidades obrigatórias e de seus titulares, mantendo em branco as demais unidades e as denominações doe seus titulares. Objetiva-se, assim, oferecer autonomia e flexibilidade à Agência reguladora para que utilize as referências, termos e denominações compatíveis com suas necessidades organizacionais e com as especificidades de sua atuação institucional. Tal compreensão revela-se compatível com a prerrogativa já exercida por essas entidades em relação aos seus cargos de uso exclusivo e preserva a autonomia que lhes foi conferida pela legislação.
+Entretanto, o Quadro demonstrativo de cargos e funções que compõe o Anexo IIa dessas entidades tem particularidades: descreve-se apenas as nomenclaturas das unidades obrigatórias e de seus titulares, mantendo em branco as demais denominações. Objetiva-se, assim, oferecer autonomia e flexibilidade à Agência reguladora para que utilize as referências, termos e denominações compatíveis com suas necessidades organizacionais e com as especificidades de sua atuação institucional. Tal compreensão revela-se compatível com a prerrogativa já exercida por essas entidades em relação aos seus cargos de uso exclusivo e preserva a autonomia que lhes foi conferida pela legislação.
 
 .. warning::
 
