@@ -32,7 +32,7 @@ Os cargos efetivos na administração pública destinam-se a preencher funções
 Cargos em comissão
 ------------------
 
-Os cargos em comissão são criados por lei, geralmente, para o exercício das atribuições de direção, chefia e assessoramento. Seu provimento dispensa concurso público - são vocacionados à ocupação em caráter transitório, por pessoas de confiança da autoridade competente para preenchê-los, a qual também pode exonerá-los *ad nutum*, isto é, livremente, e a qualquer momento.
+Os cargos em comissão são criados por lei, para o exercício das atribuições de direção, chefia e assessoramento. Seu provimento dispensa concurso público - são vocacionados à ocupação em caráter transitório, por pessoas de confiança da autoridade competente para preenchê-los, a qual também pode exonerá-los *ad nutum*, isto é, livremente, e a qualquer momento.
 
 São exceções a essa regra os cargos em comissão destinados a autoridades com mandato, cuja exoneração só pode ocorrer ao fim do mandato ou nas hipóteses previstas em lei, como é caso dos diretores das agências reguladoras e do Banco Central.
 
@@ -77,11 +77,11 @@ Dos cargos em comissão existentes na administração pública federal direta, a
 Funções de confiança
 --------------------
 
-As funções de confiança, assim como os cargos em comissão, são criadas por lei ou por transformação para o exercício das atribuições de direção, chefia e assessoramento. Seu provimento também dispensa concurso público - são vocacionadas à ocupação em caráter transitório, por pessoas de confiança da autoridade competente para preenchê-los, a qual também pode exonerar ad nutum, isto é, livremente, e a qualquer momento.
+As funções de confiança, assim como os cargos em comissão, são criadas por lei, para o exercício das atribuições de direção, chefia e assessoramento. Seu provimento também dispensa concurso público - são vocacionadas à ocupação em caráter transitório, por pessoas de confiança da autoridade competente para preenchê-los, a qual também pode dispensar *ad nutum*, isto é, livremente, e a qualquer momento.
 
-A diferença das funções de confiança para os cargos em comissão é que as funções são exclusivas de servidores públicos ocupantes de cargo efetivo. Para ocupar função de confiança no Poder Executivo Federal o servidor pode ter seu cargo efetivo vinculado a qualquer Poder e de qualquer ente da federação.
+A diferença entre as funções de confiança e os cargos em comissão é que as funções são exclusivas para servidores públicos ocupantes de cargo efetivo. Embora a lei possa limitar a ocupação de algumas funções a cargos e carreiras específicas, em geral, para ocupar função de confiança no Poder Executivo Federal, o servidor pode ter seu cargo efetivo vinculado a qualquer Poder e de qualquer ente da federação.
 
-Considerando o disposto no inc. V do art. 37 da `Constituição Federal <https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm>`_, as funções de confiança não podem ser ocupadas por pessoas que não ocupam cargo efetivo, **nem por empregados públicos (pessoas empregadas em empresas estatais), nem por servidores aposentados, nem por militares, sejam da ativa ou da reserva**.
+Considerando o disposto no inc. V do art. 37 da `Constituição Federal <https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm>`_, as funções de confiança não podem ser ocupadas por pessoas que não ocupam cargo efetivo, **nem por empregados públicos (pessoas empregadas em empresas estatais), nem por servidores aposentados, nem por militares, sejam da ativa ou da reserva**. Os mesmos requisitos devem ser observados pelo substitutos dos titulares dessas funções.
 
 
 A tabela abaixo resume as características dos diferentes tipos de cargos públicos.
@@ -180,7 +180,13 @@ As atribuições de chefia e direção estão associadas às categorias direçã
 
 .. note::
 
-   Para CCE e FCE de nível 14 ou inferior é possível alterar a alocação, categoria e denominação do cargo ou função, por meio de portaria do dirigente máximo do órgão ou da entidade, ainda que tenha sido definido em decreto (inc. III do §2º do art. 13, `Decreto nº 10.829, de 5 de outubro de 2021 <https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/decreto/d10829.htm>`_).
+   Para CCE e FCE de nível 14 ou inferior é possível alterar a alocação, categoria e denominação do cargo ou função, por meio de portaria do dirigente máximo do órgão ou da entidade, ainda que tenha sido definido em decreto (inc. III do §2º do art. 13, `Decreto nº 10.829, de 5 de outubro de 2021 <https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/decreto/d10829.htm>`_), salvo se:
+   
+   * houver destinação específica prevista em lei para os CCE ou para as FCE;
+
+   * a nomeação, a designação, a exoneração ou a dispensa do ocupante depender de ato ou anuência do Presidente da República ou de outro Ministro de Estado; ou
+
+   * as atribuições do CCE ou da FCE estiverem especificadas em ato normativo superior. 
 
 **Categoria Direção (código 1)**
    CCE e FCE da categoria Direção (código 1) destinam-se, sobretudo, aos titulares de unidades administrativas nas estruturas organizacionais de órgãos da administração direta e para parte das entidades de direito público da administração indireta.
@@ -294,7 +300,7 @@ Correspondência entre a posição hierárquica e o nível dos CCE e das FCE
 
 Conforme citado anteriormente, há uma estreita relação entre os cargos e funções e a estrutura organizacional. Essa interdependência se expressa de forma precisa: a cada nível hierárquico da estrutura organizacional corresponde um intervalo de níveis de CCE ou FCE, determinado pela complexidade das atribuições e pela abrangência de responsabilidades daquela posição.
 
-É importante lembrar que a estrutura hierárquica é construída somente com CCE e FCE da categoria 1 (chefia e direção). Os CCE e as FCE das demais categorias integram a estrutura, mas não podem ser titulares de unidade adminstrativa. Portanto, não contribuem para o estabelecimento da estrutura hierárquica.
+É importante lembrar que a estrutura hierárquica é construída somente com CCE e FCE da categoria 1 (chefia e direção). Os CCE e as FCE das demais categorias integram a estrutura, mas não podem ser titulares de unidade adminstrativa. Portanto, não compõem a estrutura hierárquica.
 
 A :numref:`fig-niveis-cargos-funcoes` ilustra essa correspondência, relacionando as principais categorias de unidade administrativa — da Secretaria à Coordenação — aos níveis de cargo ou função que lhes são típicos (vide Anexo II do `Decreto nº 10.829, de 5 de outubro de 2021 <https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/decreto/d10829.htm>`_).
 

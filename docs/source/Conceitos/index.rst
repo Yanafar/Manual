@@ -197,13 +197,7 @@ O montante disponível na *reserva técnica* depende do dia em que se avalia o s
 quantitativo, pois trata-se de montante dinâmico, sujeito a permanentes alterações em razão das diversas revisões organizacionais promovidas durante determinado período.
 Não existe um tamanho mínimo ou máximo definido: sua oscilação depende das propostas
 de revisão de estruturas organizacionais e de novos atos normativos que envolvem a
-criação de novos cargos e funções.
- 
-O montante disponível da *reserva técnica* tende a zero, pois não há interesse da
-SEGES, como órgão central do SIORG, em manter cargos em comissão e funções de
-confiança sem distribuição, já que, uma vez criados por lei, devem ser distribuídos
-para utilização.
- 
+criação de novos cargos e funções. 
  
 Sistemas Estruturadores
 -----------------------
@@ -238,7 +232,7 @@ controle e eficiência na implementação das políticas públicas.
      instituído pelo `Decreto nº 11.529, de 16 de maio de 2023 <decreto-11529_>`_
      para fortalecer a ética, a transparência e o cumprimento da Lei de Acesso à
      Informação.
-   * **SISEST (Coordenação da Governança e da Supervisão Ministerial das Empresas Estatais Federais):** instituído pelo `Decreto nº 12.302, de 9 de dezembro de 2024 <decreto-12302_>`_ com a finalidade de organizar as atividades de supervisão ministerial e de coordenação da governança das empresas estatais federais no âmbito do Poder Executivo federal.
+   * **SISEST (Coordenação da Governança e da Supervisão Ministerial das Empresas Estatais Federais):** instituído pelo `Decreto nº 12.302, de 9 de dezembro de 2024 <decreto-12302_>`_, com a finalidade de organizar as atividades de supervisão ministerial e de coordenação da governança das empresas estatais federais no âmbito do Poder Executivo federal.
  
 A diretriz normativa para os Sistemas Estruturadores é o art. 30
 `Decreto-Lei nº 200, de 25 de fevereiro de 1967 <dl-200_>`_.
@@ -297,10 +291,9 @@ Sistemas Estruturantes
  
 .. note::
  
-   O termo *Sistemas Estruturantes* refere-se às plataformas de TI e sistemas de
-   software que operacionalizam as funções dos Sistemas Estruturadores. Por exemplo:
-   o SIAFI (sistema) operacionaliza o Sistema de Administração Financeira; o SIAPE
-   (sistema) operacionaliza o SIPEC.
+   O termo *Sistemas Estruturantes* refere-se às plataformas de tecnologia da informação e sistemas informatizados que operacionalizam as funções dos Sistemas Estruturadores. Por exemplo:
+   o SIAFI (sistema informatizado) operacionaliza o Sistema de Administração Financeira; o SIAPE
+   (sistema informatizado) operacionaliza o SIPEC.
  
  
 .. _siorg:
