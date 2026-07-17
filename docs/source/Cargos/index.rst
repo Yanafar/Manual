@@ -79,7 +79,7 @@ Funções de confiança
 
 As funções de confiança, assim como os cargos em comissão, são criadas por lei, para o exercício das atribuições de direção, chefia e assessoramento. Seu provimento também dispensa concurso público - são vocacionadas à ocupação em caráter transitório, por pessoas de confiança da autoridade competente para preenchê-los, a qual também pode dispensar *ad nutum*, isto é, livremente, e a qualquer momento.
 
-A diferença entre as funções de confiança e os cargos em comissão é que as funções são exclusivas para servidores públicos ocupantes de cargo efetivo. Embora a lei possa limitar a ocupação de algumas funções a cargos e carreiras específicas, em geral, para ocupar função de confiança no Poder Executivo Federal, o servidor pode ter seu cargo efetivo vinculado a qualquer Poder e de qualquer ente da federação.
+A diferença entre as funções de confiança e os cargos em comissão é que as funções são exclusivas para servidores públicos ocupantes de cargo efetivo. Embora a lei possa limitar a ocupação de algumas funções a cargos efetivos e carreiras específicas, em geral, para ocupar função de confiança no Poder Executivo Federal, o servidor pode ter seu cargo efetivo vinculado a qualquer Poder e de qualquer ente da federação.
 
 Considerando o disposto no inc. V do art. 37 da `Constituição Federal <https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm>`_, as funções de confiança não podem ser ocupadas por pessoas que não ocupam cargo efetivo, **nem por empregados públicos (pessoas empregadas em empresas estatais), nem por servidores aposentados, nem por militares, sejam da ativa ou da reserva**. Os mesmos requisitos devem ser observados pelo substitutos dos titulares dessas funções.
 
@@ -349,20 +349,20 @@ O CCE-Unitário tem por objetivo facilitar o cálculo da despesa com cargos em c
 
    A `Lei nº 14.204, de 2021 <https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14204.htm>`_, autoriza o Poder Executivo federal a transformar cargos em comissão, funções de confiança e gratificações por meio de decreto.
 
-   Na prática, isso significa que é possível *criar* novos cargos e funções por meio da transformação daqueles existentes na estrutura da instituição demandante ou na reserva técnica da Secretaria de Gestão e Inovação, sem a edição de nova lei.
+   Na prática, isso significa que é possível dispor de novos cargos e funções por meio da transformação daqueles já existentes na estrutura da instituição demandante ou na reserva técnica da Secretaria de Gestão e Inovação, sem a edição de nova lei.
 
    Essa transformação ocorre, necessariamente, sem aumento de despesa. Assim, a tabela que traz o demonstrativo dos Cargos Comissionados Executivos (CCE) e das Funções Comissionadas Executivas (FCE) transformados deve, obrigatoriamente, demonstrar o custo zero ou negativo, em CCE-unitários.
 
    É interessante notar que essa tabela não demonstra o impacto orçamentário da reestruturação organizacional em si, que pode ser positivo. Nesse caso, a nova estrutura terá um custo em CCE-unitários superior à estrutura atual, demonstrado no quadro resumo de custos dos cargos em comissão e das funções de confiança do órgão ou entidade.
 
-   A tabela que demonstra as transformações necessárias à nova estrutura, nesse caso, incorporará cargos e funções vagos, disponíveis na chamada *reserva técnica*, de forma a demonstrar que não houve custo no ato da transformação. A consulta à reserva técnica é feita, atualmente, pela Secretaria de Gestão e Inovação, a quem cabe a construção da referida tabela.
+   A tabela que demonstra as transformações necessárias à nova estrutura, nesse caso, incorporará cargos e funções vagos, disponíveis na chamada *reserva técnica*, de forma a demonstrar que não houve custo no ato da transformação. O controle da reserva técnica é feita, atualmente, pela Secretaria de Gestão e Inovação, a quem cabe a construção da referida tabela, que figura como um dos anexos ao decreto que aprova ou altera a estrutura.
 
 .. _outros_tipos:
 
 Outros cargos em comissão e funções de confiança
 ++++++++++++++++++++++++++++++++++++++++++++++++
 
-A maioria das estruturas dos ministérios, órgãos e entidades do Poder Executivo federal é composta de Cargos Comissionados Executivos (CCE) e Funções Comissionadas Executivas (FCE). Porém, existem outras tipologias de cargos em comissão e de funções de confiança, em geral específicas para certos órgãos e entidades, que podem ser mencionadas como exceção a essa regra.
+Grande parte das estruturas dos ministérios, órgãos e entidades do Poder Executivo federal é composta de Cargos Comissionados Executivos (CCE) e Funções Comissionadas Executivas (FCE). Porém, existem outras tipologias de cargos em comissão e de funções de confiança, em geral específicas para certos órgãos e entidades, que podem ser mencionadas como exceção a essa regra.
 
 Cargos de Natureza Especial — NE
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
