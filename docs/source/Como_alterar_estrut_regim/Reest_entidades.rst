@@ -1113,7 +1113,7 @@ desenhados para uma adequada gestão de organizações voltadas ao ensino (veja 
 
    Já o modelo de decreto pode ser baixado `aqui <modelo-tipo6_>`_. 
 
-   Lembre-se: seu Anexo deve seguir as mesmas orientações da elaboração do :ref:`transformacoes`.  
+   Lembre-se: o Anexo ao Decreto deve seguir as mesmas orientações da elaboração do :ref:`transformacoes`.  
 
 
  
