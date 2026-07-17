@@ -61,7 +61,7 @@ legislativas importantes voltadas a seus propocessos de estruturação organizac
 * **FCE** — Funções Comissionadas Executivas.
  
 Esses mecanismos tornaram-se o padrão atual para a montagem de estruturas
-organizacionais. Além de simplificar o processo, a lei estabeleceu requisitos de
+organizacionais na maior parte dos órgãos e entidades do Poder Executivo federal. Além de simplificar o processo, a lei estabeleceu requisitos de
 qualificação para o preenchimento dessas vagas, contribuindo para a
 profissionalização do quadro da administração pública.
  
