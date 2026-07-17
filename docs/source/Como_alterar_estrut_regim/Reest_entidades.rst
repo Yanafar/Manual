@@ -1006,9 +1006,9 @@ Entretanto, o Quadro demonstrativo de cargos e funções que compõe o Anexo IIa
 
    Apesar da flexibilidade para adotar as nomeclaturas mais adequadas a suas realidades, descolando-se da tabela de referência constante do Anexo II do Decreto nº 10.829, de 2021, Cumpre esclarecer, as Agências reguladoras devem observar os demais dispositivos e diretrizes estabelecidos no referido Decreto. Em especial, permanecem plenamente aplicáveis as regras relacionadas ao posicionamento hierárquico das unidades e dos cargos na estrutura organizacional, a exemplo do disposto nos incisos I e III do `art. 4º <decreto-10829-art4_>`_, por se tratar de normas gerais destinadas aos órgãos e entidades da Administração Pública Federal e essenciais para a adequada conformação das estruturas organizacionais:
 
-     * o titular da unidade administrativa será o único ocupante de CCE ou FCE de maior nível;
+   * o titular da unidade administrativa será o único ocupante de CCE ou FCE de maior nível;
 
-     * os CCE ou as FCE de mesma denominação não poderão ter relação de subordinação entre si.
+   * os CCE ou as FCE de mesma denominação não poderão ter relação de subordinação entre si.
 
    Nas situações em que determinada denominação possa induzir a interpretação divergente da posição hierárquica efetivamente atribuída à unidade, ao cargo ou à função, caberá à entidade adotar nomenclatura alternativa que preserve a coerência com o regramento geral aplicável.
 
