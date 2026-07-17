@@ -54,7 +54,7 @@ cada entidade. Eles detalham as competências do órgão e o respectivo quadro d
 cargos em comissão e funções comissionadas.
  
 A partir de 2021, a Administração Pública federal conduziu inovações
-legislativas importantes voltadas a seus propocessos de estruturação organizacional, consolidadas, principalmente, na `Lei nº 14.204, de 16 de setembro de 2021 <lei-14204_>`_, que criou:
+legislativas importantes voltadas a modernizar seus processos de estruturação organizacional. Essas inovações encontram-se consolidadas, principalmente, na `Lei nº 14.204, de 16 de setembro de 2021 <lei-14204_>`_, que criou:
  
 * **CCE** — Cargos Comissionados Executivos;
  
