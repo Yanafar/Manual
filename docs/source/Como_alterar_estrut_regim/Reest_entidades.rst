@@ -1143,3 +1143,4 @@ desenhados para uma adequada gestão de organizações voltadas ao ensino (veja 
 .. _lei-14204-art6: https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/L14204.htm#Art6
 .. _lei-14204-art7: https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/L14204.htm#Art7
 .. _planilha-ifes: https://www.gov.br/gestao/pt-br/assuntos/gestaoeinovacao/modelos-organizacionais/estruturas-organizacionais/arquivos/manual-online/2026_planilha-transformacoes-e-impacto_ifes.xlsx
+.. _modelo-tipo6: https://www.gov.br/gestao/pt-br/assuntos/gestaoeinovacao/modelos-organizacionais/estruturas-organizacionais/arquivos/manual-online/modelo-6_decreto-de-transformacao-ife.docx
