@@ -1056,12 +1056,7 @@ Outras regras a serem observadas
   diversa da prevista no `art. 50 da Lei nº 14.600, de 19 de junho de 2023 <lei-14600-art50_>`_.
  
 * Evitar a divisão vertical da estrutura organizacional em mais de quatro níveis
-  hierárquicos (a contar da unidade DAS/FCPE nível 6 ou, na ausência deste, a
-  contar da unidade de nível imediatamente inferior, no caso dos Ministérios e
-  Órgãos da Presidência da República, e a contar do nível 5 no caso das autarquias
-  e fundações), para agilizar a tomada de decisão e reduzir a necessidade de
-  ajustes no curto prazo nos níveis mais baixos. Esta diretriz não se aplica às
-  unidades descentralizadas nem às Funções Gratificadas.
+  hierárquicos (a contar da unidade CCE/FCE de nível 17, no caso dos Ministérios e Órgãos da Presidência da República; e do nível 15 no caso das autarquias e fundações). Estruturas menos verticais tornam mais ágeis a tomada de decisão e reduzem a necessidade de ajustes no curto prazo, nos níveis mais baixos. Esta diretriz não se aplica às unidades descentralizadas nem às Funções Gratificadas.
   .. TODO: inserir :numref: das figuras sobre níveis hierárquicos máximos
  
 * Evitar a existência ou criação de unidades administrativas com menos de sete
