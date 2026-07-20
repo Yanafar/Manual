@@ -1057,6 +1057,7 @@ Outras regras a serem observadas
  
 * Evitar a divisão vertical da estrutura organizacional em mais de quatro níveis
   hierárquicos (a contar da unidade CCE/FCE de nível 17, no caso dos Ministérios e Órgãos da Presidência da República; e do nível 15 no caso das autarquias e fundações). Estruturas menos verticais tornam mais ágeis a tomada de decisão e reduzem a necessidade de ajustes no curto prazo, nos níveis mais baixos. Esta diretriz não se aplica às unidades descentralizadas nem às Funções Gratificadas.
+  
   .. TODO: inserir :numref: das figuras sobre níveis hierárquicos máximos
  
 * Evitar a existência ou criação de unidades administrativas com menos de sete
