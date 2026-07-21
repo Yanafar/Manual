@@ -396,6 +396,8 @@ com a próxima unidade descrita no art. 2º do Anexo I.
  
     #. Os primeiros cargos e funções constantes na tabela serão os que assessoram diretamente o Ministro (categorias 2 ou 3).
  
+    #. O titular da unidade administrativa será o único ocupante de CCE ou FCE de maior nível.
+
     #. Os CCE ou as FCE de mesma denominação não podem ter relação de subordinação entre si.
  
     #. Todas as alterações realizadas por portaria ministerial devem ser consideradas no novo quadro demonstrativo (e no quadro resumo de custos), já que esse será o retrato mais recente da estrutura do órgão. Alterações não incorporadas — ainda que acidentalmente — exigirão nova portaria ministerial de realocação ou permuta e, provavelmente, novos atos de nomeação ou designação.
@@ -539,8 +541,8 @@ Unidade obrigatória: sim
 Nomenclatura permite complemento: não
  
 Sobre o titular: Chefe de Gabinete, ocupante de cargo ou função, necessariamente
-de código 1.15 ou 1.16 em Ministérios. Em órgãos da Presidência da República,
-foi convencionado o código 1.17.
+de código 1.15 ou 1.16 em Ministérios. Exclusivamente em órgãos da Presidência da República,
+foi admitido o código 1.17.
  
 Sobre as competências: necessariamente descritas em Decreto.
  
@@ -781,7 +783,7 @@ Regras específicas sobre a estrutura de cargos e funções que compõem as Secr
  
 #. As Secretarias mais robustas usualmente contam com um Gabinete (chefiado por um Chefe de
    Gabinete, ocupante de CCE ou FCE de código 1.13 ou 1.14, sem competências ou
-   estrutura discriminada em Decreto) e um Secretário-Adjunto, de código 1.15 ou
+   estrutura discriminada em Decreto) e, excepcionalmente, um Secretário-Adjunto, de código 1.15 ou
    1.16.
  
 #. Às Secretarias se subordinam Diretorias ou Departamentos, responsáveis por

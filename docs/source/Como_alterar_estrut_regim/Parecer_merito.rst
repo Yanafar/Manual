@@ -135,7 +135,7 @@ Não há um modelo pré‑definido obrigatório, mas o documento deve observar a
  
    Cabeçalho e data na EMI.
 
-Destinatário — utiliza-se o vocativo "Senhor Presidente da República", dado que o Manual de Redação da Presidência da República orienta, em diversos pontos, que se evite linguagem excessivamente solene, rebuscada ou personalista, em favor de um tratamento padronizado, impessoal e objetivo.
+**Destinatário**: utiliza-se o vocativo "Senhor Presidente da República", dado que o Manual de Redação da Presidência da República orienta, em diversos pontos, que se evite linguagem excessivamente solene, rebuscada ou personalista, em favor de um tratamento padronizado, impessoal e objetivo.
 
 .. note::
 
