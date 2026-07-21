@@ -24,7 +24,7 @@ Acesse o conteúdo pelo menu lateral ou faça o download da versão em PDF.
 4. Como elaborar a minuta de decreto de estrutura regimental ou estatuto.
  
 5. Como tramita o processo de revisão organizacional — da concepção da proposta
-   ao cadastro da nova estrutura no sistema informatizado do SIORG e nos demais sistemas informatizados
+   ao cadastro da nova estrutura no SIORG e nos demais sistemas informatizados
    do governo federal.
  
 **A quem se aplica**
@@ -40,10 +40,22 @@ Acesse o conteúdo pelo menu lateral ou faça o download da versão em PDF.
 
 .. only:: html
    
+   **Precisa gerar o PDF do manual?**
+
+      Caso precise do manual para consultas offline ou mesmo para impressão acesse ":ref:`gerar_pdf`".
+
    .. admonition:: Bibliografia
 
       Acesse :doc:`bibliografia` para ter acesso a todos os materiais e links utilizados neste documento.
 
+
+.. only:: html
+
+   .. toctree::
+      :hidden:
+      :titlesonly:
+
+      gerar_pdf/index
 
 .. toctree::
    :hidden:

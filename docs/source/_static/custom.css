@@ -129,6 +129,16 @@ figure figcaption .caption-number,
     line-height: 1.4;
 }
 
+/* Centraliza a legenda das figuras, para acompanhar a imagem centralizada
+   (:align: center). Precisa da mesma especificidade da regra de
+   justificação da Seção 1 (.main .content p) para conseguir sobrepô-la. */
+.main .content figure figcaption,
+.main .content figure figcaption p,
+.main .content .figure .caption,
+.main .content .figure .caption p {
+    text-align: center !important;
+}
+
 /* =========================================
    4. EXPANDIR A CAIXA DE TEXTO (AJUSTE FINO CORRIGIDO)
    ========================================= */
