@@ -482,6 +482,8 @@ com a próxima unidade descrita no art. 2º do Anexo I.
 .. admonition:: Pontos de atenção
  
     #. Os primeiros cargos e funções constantes na tabela serão os que assessoram diretamente a autoridade máxima (categorias 2 ou 3).
+
+    #. O titular da unidade administrativa será o único ocupante de CCE ou FCE de maior nível.
  
     #. Os CCE ou as FCE de mesma denominação não podem ter relação de subordinação entre si.
  
