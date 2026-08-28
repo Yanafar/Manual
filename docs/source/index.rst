@@ -1,4 +1,5 @@
-Estruturas Organizacionais
+Manual de Estruturas Organizacionais do Poder Executivo federal
+3a Edição
 ==========================
 
 .. figure:: _static/images/banner_inicial.png
